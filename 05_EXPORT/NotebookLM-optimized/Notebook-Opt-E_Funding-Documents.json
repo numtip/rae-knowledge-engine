@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "notebook_id": "OPT-E",
+    "notebook_name": "Funding & Documents",
+    "title": "RAE Funding, Documents & Resources — Reasoning Domain",
+    "description": "Funding documents, proposals, downloadable resources, and reference materials",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "optimization": "Reorganized by reasoning domain (Funding & Documents)",
+    "original_notebook": "Notebook00_Master, Notebook05_Document-Center",
+    "item_count": 4,
+    "knowledge_ids": ["KB-0041", "KB-0042", "KB-0043", "KB-0044"]
+  },
+  "content_sections": [
+    {
+      "domain": "funding",
+      "position": 1,
+      "title": "ARDA Funding Documents",
+      "items": [
+        {
+          "kb_id": "KB-0041",
+          "title": "ARDA Strategic Fund Documents (SF)",
+          "description": "ARDA Strategic Fund proposal for fiscal year 2570 — 'ด้านการเกษตรและนวัตกรรม'",
+          "source_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/Doc_25690310092241_879433.pdf",
+          "importance": 3,
+          "type": "reference"
+        },
+        {
+          "kb_id": "KB-0042",
+          "title": "ARDA Research Utilization Documents (RU)",
+          "description": "ARDA Research Utilization proposal for fiscal year 2570 — 'ด้านการนำผลงานวิจัยและนวัตกรรมไปใช้ประโยชน์'",
+          "source_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/Doc_25690310092314_430623.pdf",
+          "importance": 3,
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "domain": "general-pages",
+      "position": 2,
+      "title": "General Reference Pages",
+      "items": [
+        {
+          "kb_id": "KB-0043",
+          "title": "General Page: wID=914",
+          "description": "General webpage from site navigation",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=914",
+          "importance": 2,
+          "type": "reference"
+        },
+        {
+          "kb_id": "KB-0044",
+          "title": "General Page: wID=2603",
+          "description": "General webpage from site navigation",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2603",
+          "importance": 2,
+          "type": "reference"
+        }
+      ]
+    }
+  ],
+  "domain_summary": {
+    "funding-documents": {
+      "total_items": 4,
+      "canonical_count": 0,
+      "reference_count": 4,
+      "primary_sources": ["https://rae.mju.ac.th/goverment/20130325103535_2013_rae/"],
+      "key_themes": ["arda", "strategic-fund", "research-utilization", "general-pages"]
+    }
+  }
+}

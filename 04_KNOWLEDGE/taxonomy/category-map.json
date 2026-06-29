@@ -1,0 +1,72 @@
+{
+  "landing": {
+    "path": "/",
+    "label": "Landing",
+    "priority": 0,
+    "icon": "home",
+    "items_count": 1
+  },
+  "about": {
+    "path": "/about",
+    "label": "About",
+    "priority": 0,
+    "icon": "info",
+    "items_count": 0
+  },
+  "research": {
+    "path": "/research",
+    "label": "Research",
+    "priority": 1,
+    "icon": "microscope",
+    "items_count": 4
+  },
+  "academic-services": {
+    "path": "/services",
+    "label": "Academic Services",
+    "priority": 1,
+    "icon": "briefcase",
+    "items_count": 0
+  },
+  "document-center": {
+    "path": "/documents",
+    "label": "Document Center",
+    "priority": 1,
+    "icon": "file",
+    "items_count": 0
+  },
+  "news": {
+    "path": "/news",
+    "label": "News",
+    "priority": 1,
+    "icon": "newspaper",
+    "items_count": 0
+  },
+  "organization": {
+    "path": "/organization",
+    "label": "Organization",
+    "priority": 2,
+    "icon": "organization",
+    "items_count": 0
+  },
+  "partners": {
+    "path": "/partners",
+    "label": "Partners",
+    "priority": 2,
+    "icon": "link",
+    "items_count": 0
+  },
+  "media": {
+    "path": "/media",
+    "label": "Media",
+    "priority": 3,
+    "icon": "images",
+    "items_count": 0
+  },
+  "archive": {
+    "path": "/archive",
+    "label": "Archive",
+    "priority": 99,
+    "icon": "archive",
+    "items_count": 0
+  }
+}

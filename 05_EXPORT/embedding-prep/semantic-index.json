@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "file_type": "semantic_index",
+    "description": "Semantic index for embedding preparation — metadata only, no vector embeddings",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "total_entries": 44,
+    "embedding_status": "metadata_only",
+    "embedding_ready": true,
+    "recommended_embedding_model": "text-embedding-3-small or text-embedding-3-large"
+  },
+  "entries": [
+    {"kb_id": "KB-0001", "title": "RAE — Mission Statement", "category": "landing", "type": "canonical", "semantic_tags": ["mission", "philosophy", "agriculture", "society", "foundation"], "text_length_estimate": 50, "priority": 1, "domain": "identity-mission"},
+    {"kb_id": "KB-0002", "title": "RAE — Vision Statement", "category": "landing", "type": "canonical", "semantic_tags": ["vision", "international", "research-hub", "global"], "text_length_estimate": 50, "priority": 1, "domain": "identity-mission"},
+    {"kb_id": "KB-0003", "title": "RAE — Organizational Structure", "category": "organization", "type": "canonical", "semantic_tags": ["organization", "structure", "departments", "hierarchy"], "text_length_estimate": 200, "priority": 1, "domain": "organization-governance"},
+    {"kb_id": "KB-0004", "title": "RAE — Research Services Overview", "category": "research", "type": "canonical", "semantic_tags": ["research", "services", "documents", "support"], "text_length_estimate": 500, "priority": 1, "domain": "research-services"},
+    {"kb_id": "KB-0005", "title": "RAE — Academic Services Division", "category": "services", "type": "canonical", "semantic_tags": ["services", "academic", "training", "consulting", "extension"], "text_length_estimate": 300, "priority": 2, "domain": "research-services"},
+    {"kb_id": "KB-0006", "title": "RAE — Research Administration Division", "category": "organization", "type": "canonical", "semantic_tags": ["research-admin", "grants", "projects", "support"], "text_length_estimate": 200, "priority": 2, "domain": "organization-governance"},
+    {"kb_id": "KB-0007", "title": "RAE — Research Forum & Funding Workshop", "category": "news", "type": "canonical", "semantic_tags": ["news", "event", "arda", "funding", "workshop", "training"], "text_length_estimate": 2000, "priority": 1, "domain": "news-events"},
+    {"kb_id": "KB-0008", "title": "RAE — Contact Information", "category": "organization", "type": "canonical", "semantic_tags": ["contact", "address", "phone", "email", "location"], "text_length_estimate": 100, "priority": 2, "domain": "organization-governance"},
+    {"kb_id": "KB-0009", "title": "RAE — Internal Divisions Overview", "category": "organization", "type": "canonical", "semantic_tags": ["divisions", "internal", "administration"], "text_length_estimate": 200, "priority": 2, "domain": "organization-governance"},
+    {"kb_id": "KB-0010", "title": "RAE — Personnel & Staff Directory", "category": "organization", "type": "canonical", "semantic_tags": ["personnel", "staff", "directory"], "text_length_estimate": 400, "priority": 2, "domain": "organization-governance"},
+    {"kb_id": "KB-0011", "title": "RAE — Document Downloads", "category": "landing", "type": "reference", "semantic_tags": ["documents", "downloads", "forms", "guides"], "text_length_estimate": 100, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0012", "title": "RAE — History & Background", "category": "landing", "type": "reference", "semantic_tags": ["history", "background", "about"], "text_length_estimate": 100, "priority": 3, "domain": "identity-mission"},
+    {"kb_id": "KB-0013", "title": "RAE — Executive Management Structure", "category": "organization", "type": "reference", "semantic_tags": ["executive", "management", "administration"], "text_length_estimate": 100, "priority": 3, "domain": "organization-governance"},
+    {"kb_id": "KB-0014", "title": "RAE — Administrative Management Structure", "category": "organization", "type": "reference", "semantic_tags": ["admin", "management", "structure"], "text_length_estimate": 100, "priority": 3, "domain": "organization-governance"},
+    {"kb_id": "KB-0015", "title": "RAE — Landing Page Navigation Structure", "category": "landing", "type": "reference", "semantic_tags": ["navigation", "menu", "site-structure"], "text_length_estimate": 200, "priority": 3, "domain": "identity-mission"},
+    {"kb_id": "KB-0016", "title": "RAE — Language Switch & Accessibility", "category": "landing", "type": "reference", "semantic_tags": ["language", "accessibility", "login", "thai", "english"], "text_length_estimate": 50, "priority": 4, "domain": "identity-mission"},
+    {"kb_id": "KB-0017", "title": "RAE — Related Website Links", "category": "landing", "type": "reference", "semantic_tags": ["links", "mju", "resources", "external"], "text_length_estimate": 100, "priority": 4, "domain": "identity-mission"},
+    {"kb_id": "KB-0018", "title": "RAE — Landing Page Hero Slideshow", "category": "landing", "type": "reference", "semantic_tags": ["hero", "slideshow", "visual", "banner"], "text_length_estimate": 100, "priority": 3, "domain": "identity-mission"},
+    {"kb_id": "KB-0019", "title": "RAE — News Listing Page (wID=2065)", "category": "news", "type": "reference", "semantic_tags": ["news", "listing", "events"], "text_length_estimate": 300, "priority": 3, "domain": "news-events"},
+    {"kb_id": "KB-0020", "title": "RAE — All News Listing", "category": "news", "type": "reference", "semantic_tags": ["news", "all", "listing"], "text_length_estimate": 100, "priority": 4, "domain": "news-events"},
+    {"kb_id": "KB-0021", "title": "RAE — News Category: Activities", "category": "news", "type": "reference", "semantic_tags": ["news", "activities", "category"], "text_length_estimate": 100, "priority": 4, "domain": "news-events"},
+    {"kb_id": "KB-0022", "title": "RAE — News Category: PR", "category": "news", "type": "reference", "semantic_tags": ["news", "pr", "category"], "text_length_estimate": 100, "priority": 4, "domain": "news-events"},
+    {"kb_id": "KB-0023", "title": "RAE — News Category: Procurement/Jobs", "category": "news", "type": "reference", "semantic_tags": ["news", "procurement", "jobs", "category"], "text_length_estimate": 100, "priority": 4, "domain": "news-events"},
+    {"kb_id": "KB-0024", "title": "RAE — News Category: Announcements", "category": "news", "type": "reference", "semantic_tags": ["news", "announcements", "category"], "text_length_estimate": 100, "priority": 4, "domain": "news-events"},
+    {"kb_id": "KB-0025", "title": "RAE — Research Detail: wID=2022", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0026", "title": "RAE — Research Detail: wID=2387", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0027", "title": "RAE — Research Detail: wID=1960", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0028", "title": "RAE — Research Detail: wID=1908", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0029", "title": "RAE — Research Detail: wID=1941", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0030", "title": "RAE — Research Detail: wID=2042", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0031", "title": "RAE — Research Detail: wID=2043", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0032", "title": "RAE — Research Detail: wID=2390", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0033", "title": "RAE — Research Detail: wID=2463", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0034", "title": "RAE — Research Detail: wID=2012", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0035", "title": "RAE — Research Detail: wID=2013", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0036", "title": "RAE — Research Detail: wID=1909", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0037", "title": "RAE — Research Detail: wID=954", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0038", "title": "RAE — Research Detail: wID=2744", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0039", "title": "RAE — Research Detail: wID=2602", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0040", "title": "RAE — Research Detail: wID=2721", "category": "research", "type": "reference", "semantic_tags": ["research", "detail", "page"], "text_length_estimate": 200, "priority": 3, "domain": "research-services"},
+    {"kb_id": "KB-0041", "title": "RAE — ARDA Strategic Fund Documents (SF)", "category": "documents", "type": "reference", "semantic_tags": ["documents", "arda", "strategic-fund", "proposal", "funding"], "text_length_estimate": 500, "priority": 3, "domain": "funding-documents"},
+    {"kb_id": "KB-0042", "title": "RAE — ARDA Research Utilization Documents (RU)", "category": "documents", "type": "reference", "semantic_tags": ["documents", "arda", "research-utilization", "proposal", "funding"], "text_length_estimate": 500, "priority": 3, "domain": "funding-documents"},
+    {"kb_id": "KB-0043", "title": "RAE — General Page: wID=914", "category": "landing", "type": "reference", "semantic_tags": ["general", "page", "web"], "text_length_estimate": 100, "priority": 4, "domain": "funding-documents"},
+    {"kb_id": "KB-0044", "title": "RAE — General Page: wID=2603", "category": "landing", "type": "reference", "semantic_tags": ["general", "page", "web"], "text_length_estimate": 100, "priority": 4, "domain": "funding-documents"}
+  ],
+  "index_stats": {
+    "total_entries": 44,
+    "by_domain": {
+      "identity-mission": 7,
+      "organization-governance": 7,
+      "research-services": 19,
+      "news-events": 7,
+      "funding-documents": 4
+    },
+    "by_priority": {
+      "1 (critical)": 5,
+      "2 (high)": 5,
+      "3 (medium)": 22,
+      "4 (low)": 12
+    },
+    "by_category": {
+      "landing": 7,
+      "research": 19,
+      "services": 1,
+      "news": 6,
+      "organization": 6,
+      "documents": 2,
+      "faq": 0
+    }
+  }
+}

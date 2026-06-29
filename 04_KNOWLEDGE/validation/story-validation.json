@@ -1,0 +1,10 @@
+[
+  {
+    "total_positions": 10,
+    "covered_positions": 9,
+    "coverage_percentage": "90.0",
+    "missing_positions": [
+      "Future of Agriculture"
+    ]
+  }
+]

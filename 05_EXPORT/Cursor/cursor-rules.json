@@ -1,0 +1,32 @@
+{
+  "name": "RAE Knowledge Reference",
+  "description": "Reference rules for RAE knowledge context",
+  "rules": [
+    {
+      "trigger": [
+        "RAE",
+        "research",
+        "agriculture"
+      ],
+      "context": "Load RAE knowledge base context",
+      "action": "search-knowledge"
+    },
+    {
+      "trigger": [
+        "what does RAE",
+        "who is RAE"
+      ],
+      "context": "Institution overview",
+      "action": "return-mission-vision"
+    },
+    {
+      "trigger": [
+        "services",
+        "training",
+        "consulting"
+      ],
+      "context": "Services inquiry",
+      "action": "search-services-category"
+    }
+  ]
+}

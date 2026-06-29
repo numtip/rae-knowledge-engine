@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "notebook_id": "OPT-C",
+    "notebook_name": "Research & Services",
+    "title": "RAE Research, Academic Services & Innovation — Reasoning Domain",
+    "description": "Research services, academic services, research detail pages, and innovation-related content",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "optimization": "Reorganized by reasoning domain (Research & Services)",
+    "original_notebook": "Notebook00_Master, Notebook01_Landing, Notebook02_Research, Notebook03_Academic-Service",
+    "item_count": 19,
+    "knowledge_ids": ["KB-0004", "KB-0005", "KB-0025", "KB-0026", "KB-0027", "KB-0028", "KB-0029", "KB-0030", "KB-0031", "KB-0032", "KB-0033", "KB-0034", "KB-0035", "KB-0036", "KB-0037", "KB-0038", "KB-0039", "KB-0040", "KB-0011"]
+  },
+  "content_sections": [
+    {
+      "domain": "research-overview",
+      "position": 1,
+      "title": "Research Services (Core)",
+      "items": [
+        {
+          "kb_id": "KB-0004",
+          "title": "RAE — Research Services Overview",
+          "description": "Primary research services — documents, forms, and support information",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 5,
+          "type": "canonical"
+        }
+      ]
+    },
+    {
+      "domain": "research-details",
+      "position": 2,
+      "title": "Research Detail Pages",
+      "items": [
+        {"kb_id": "KB-0025", "title": "Research Detail: wID=2022", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2022", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0026", "title": "Research Detail: wID=2387", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2387", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0027", "title": "Research Detail: wID=1960", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=1960", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0028", "title": "Research Detail: wID=1908", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=1908", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0029", "title": "Research Detail: wID=1941", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=1941", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0030", "title": "Research Detail: wID=2042", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2042", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0031", "title": "Research Detail: wID=2043", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2043", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0032", "title": "Research Detail: wID=2390", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2390", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0033", "title": "Research Detail: wID=2463", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2463", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0034", "title": "Research Detail: wID=2012", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2012", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0035", "title": "Research Detail: wID=2013", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2013", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0036", "title": "Research Detail: wID=1909", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=1909", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0037", "title": "Research Detail: wID=954", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=954", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0038", "title": "Research Detail: wID=2744", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2744", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0039", "title": "Research Detail: wID=2602", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2602", "importance": 3, "type": "reference"},
+        {"kb_id": "KB-0040", "title": "Research Detail: wID=2721", "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2721", "importance": 3, "type": "reference"}
+      ]
+    },
+    {
+      "domain": "academic-services",
+      "position": 3,
+      "title": "Academic Services",
+      "items": [
+        {
+          "kb_id": "KB-0005",
+          "title": "RAE — Academic Services Division",
+          "description": "Academic Service Administration Division — training, consulting, laboratory services, community extension",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "type": "canonical"
+        }
+      ]
+    },
+    {
+      "domain": "documents",
+      "position": 4,
+      "title": "Document Downloads",
+      "items": [
+        {
+          "kb_id": "KB-0011",
+          "title": "RAE — Document Downloads",
+          "description": "Downloadable documents — forms, guides, publications",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        }
+      ]
+    }
+  ],
+  "domain_summary": {
+    "research-services": {
+      "total_items": 19,
+      "canonical_count": 2,
+      "reference_count": 17,
+      "primary_sources": ["https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064", "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066"],
+      "key_themes": ["research", "academic-services", "research-details", "documents"]
+    }
+  }
+}

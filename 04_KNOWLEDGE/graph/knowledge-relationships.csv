@@ -1,0 +1,20 @@
+source_id,source_label,target_id,target_label,relationship_type,confidence,weight
+RESEARCH-PROJECTS,Research Projects,RESEARCHERS,Research Team,part_of,0.95,0.95
+RESEARCH-PROJECTS,Research Projects,INNOVATION-001,Innovation Hub,produces,0.90,0.90
+INNOVATION-001,Innovation Hub,SERVICES-001,Academic Services,supports,0.85,0.85
+SERVICES-001,Academic Services,LABS-001,Laboratories & Facilities,provided_by,0.80,0.80
+COMMUNITY-001,Farmer Communities,SERVICES-001,Academic Services,benefits,0.85,0.85
+DOCUMENTS,Knowledge Base,RESEARCH-PROJECTS,Research Projects,documents,0.70,0.70
+CONTACT-001,Contact & Support,COMMUNITY-001,Farmer Communities,supports,0.75,0.75
+ORG-001,RAE Organization,MISSION-001,Advance Research and Education,drives,0.95,0.95
+ORG-001,RAE Organization,VISION-001,Strategic Vision,guides,0.95,0.95
+RESEARCH-PROJECTS,Research Projects,ORG-001,RAE Organization,belongs_to,0.75,0.75
+RAE-NODE-DOCUMENT-001,สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส,ORG-001,RAE Organization,belongs_to,0.75,0.75
+RAE-NODE-RESEARCH-002,--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E,INNOVATION-001,Innovation Hub,produces,0.85,0.85
+RAE-NODE-RESEARCH-002,--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E,ORG-001,RAE Organization,belongs_to,0.75,0.75
+RAE-NODE-RESEARCH-003,--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E,INNOVATION-001,Innovation Hub,produces,0.85,0.85
+RAE-NODE-RESEARCH-003,--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E,ORG-001,RAE Organization,belongs_to,0.75,0.75
+RAE-NODE-RESEARCH-004,--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E,INNOVATION-001,Innovation Hub,produces,0.85,0.85
+RAE-NODE-RESEARCH-004,--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E,ORG-001,RAE Organization,belongs_to,0.75,0.75
+RAE-NODE-RESEARCH-005,--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E,INNOVATION-001,Innovation Hub,produces,0.85,0.85
+RAE-NODE-RESEARCH-005,--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E,ORG-001,RAE Organization,belongs_to,0.75,0.75

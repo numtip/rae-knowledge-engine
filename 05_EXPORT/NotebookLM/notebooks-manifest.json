@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "generated": "2026-06-29T06:49:26.346Z",
+    "version": "v1",
+    "total_notebooks": 6,
+    "total_items": 44
+  },
+  "notebooks": [
+    {
+      "id": "00",
+      "name": "Master",
+      "filename": "Notebook00_Master.json",
+      "title": "RAE Master Knowledge",
+      "description": "Comprehensive reference with all content",
+      "item_count": 24
+    },
+    {
+      "id": "01",
+      "name": "Landing",
+      "filename": "Notebook01_Landing.json",
+      "title": "Landing Page Knowledge",
+      "description": "Hero, research, services, impact for Landing V2",
+      "item_count": 14
+    },
+    {
+      "id": "02",
+      "name": "Research",
+      "filename": "Notebook02_Research.json",
+      "title": "Research Excellence",
+      "description": "Research programs, projects, achievements",
+      "item_count": 1
+    },
+    {
+      "id": "03",
+      "name": "Academic-Service",
+      "filename": "Notebook03_Academic-Service.json",
+      "title": "Academic Services",
+      "description": "Training, consulting, laboratory services",
+      "item_count": 5
+    },
+    {
+      "id": "04",
+      "name": "News",
+      "filename": "Notebook04_News.json",
+      "title": "News & Events (2568-2569)",
+      "description": "Recent announcements and achievements",
+      "item_count": 0
+    },
+    {
+      "id": "05",
+      "name": "Document-Center",
+      "filename": "Notebook05_Document-Center.json",
+      "title": "Document & Resource Center",
+      "description": "Publications, reports, resources",
+      "item_count": 0
+    }
+  ]
+}

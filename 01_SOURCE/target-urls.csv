@@ -1,0 +1,6 @@
+source_type,url,priority,include_rule,language,exclude_rule,notes
+landing,https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH,P1,all_text_and_links,th-TH,external_domains|js_css|binary_files,Main RAE landing page — primary seed URL
+research,https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064,P1,all_text_and_links,th-TH,external_domains|js_css|binary_files,Research services page — primary seed URL
+news,https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065,P2,be_2568_2569_only,th-TH,pre_2568|external_domains,News listing page — discover via landing; PENDING URL confirmation
+services,https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066,P3,all_text_and_links,th-TH,external_domains|js_css,Services page — PENDING URL confirmation; verify wID
+organization,https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067,P3,all_text_and_links,th-TH,external_domains|pii_beyond_public_contact,Org structure page — PENDING URL confirmation; verify wID

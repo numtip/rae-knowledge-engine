@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "pack_id": "LAND-001",
+    "pack_name": "Landing Pack",
+    "title": "RAE Landing Page Knowledge Pack",
+    "description": "Complete landing page content: hero, mission, vision, navigation, history, and visual identity elements",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "target_audience": "web developers, content designers, UX teams",
+    "item_count": 7,
+    "knowledge_ids": ["KB-0001", "KB-0002", "KB-0012", "KB-0015", "KB-0016", "KB-0017", "KB-0018"]
+  },
+  "landing_content": {
+    "hero": [
+      {"kb_id": "KB-0018", "title": "Landing Page Hero Slideshow", "description": "Visual hero slideshow content", "importance": 3}
+    ],
+    "identity": [
+      {"kb_id": "KB-0001", "title": "Mission Statement", "importance": 5},
+      {"kb_id": "KB-0002", "title": "Vision Statement", "importance": 5},
+      {"kb_id": "KB-0012", "title": "History & Background", "importance": 3}
+    ],
+    "navigation": [
+      {"kb_id": "KB-0015", "title": "Navigation Structure", "importance": 3},
+      {"kb_id": "KB-0016", "title": "Language Switch & Accessibility", "importance": 2},
+      {"kb_id": "KB-0017", "title": "Related Website Links", "importance": 2}
+    ]
+  },
+  "page_structure": {
+    "primary_menu_items": [
+      "หน้าหลัก (Home)",
+      "เกี่ยวกับสำนักวิจัยฯ (About RAE)",
+      "เอกสารงานวิจัย (Research Documents)",
+      "บุคลากรตามโครงสร้าง (Personnel Structure)",
+      "ปฏิทิน (Calendar)",
+      "ติดต่อ (Contact)"
+    ],
+    "about_submenu": [
+      "ความเป็นมา (History)",
+      "ปรัชญาวิสัยทัศน์พันธะกิจ (Philosophy, Vision, Mission)",
+      "โครงสร้างองค์กร (Organizational Structure)",
+      "โครงสร้างการบริหาร (Administrative Structure)",
+      "โครงสร้างผู้บริหาร (Executive Structure)",
+      "หน่วยงานภายใน (Internal Units)",
+      "บุคลากรภายใน (Internal Personnel)"
+    ],
+    "language_switch": "Thai (th-TH) / English (en-US)"
+  },
+  "usage_notes": {
+    "recommended_use": "Website redesign, content audit, landing page optimization",
+    "ai_context_size": "medium",
+    "priority_level": "high"
+  }
+}

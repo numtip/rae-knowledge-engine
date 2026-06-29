@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "name": "RAE Knowledge Base — Master Manifest",
+    "version": "v1.0",
+    "generated": "2026-06-29T06:50:36.076Z",
+    "generation_phase": "K0.2D-K0.2E",
+    "knowledge_wave": "Wave 1",
+    "deployment_status": "TESTING"
+  },
+  "quality_metrics": {
+    "overall_score": 45,
+    "quality_grade": "F (Needs Improvement)",
+    "checks_passed": 0,
+    "checks_total": 11,
+    "warnings": 5,
+    "errors": 1,
+    "duplicates_detected": 0,
+    "broken_links_detected": 0,
+    "timestamp": "2026-06-29T06:50:36.077Z"
+  },
+  "content_summary": {
+    "total_items": 44,
+    "total_notebooks": 6,
+    "notebooks": [
+      {
+        "notebook_id": "00",
+        "name": "Master",
+        "title": "RAE Master Knowledge",
+        "items": 24
+      },
+      {
+        "notebook_id": "01",
+        "name": "Landing",
+        "title": "Landing Page Knowledge",
+        "items": 14
+      },
+      {
+        "notebook_id": "02",
+        "name": "Research",
+        "title": "Research Excellence",
+        "items": 1
+      },
+      {
+        "notebook_id": "03",
+        "name": "Academic-Service",
+        "title": "Academic Services",
+        "items": 5
+      },
+      {
+        "notebook_id": "04",
+        "name": "News",
+        "title": "News & Events (2568-2569)",
+        "items": 0
+      },
+      {
+        "notebook_id": "05",
+        "name": "Document-Center",
+        "title": "Document & Resource Center",
+        "items": 0
+      }
+    ]
+  },
+  "platforms": {
+    "notebooklm": {
+      "name": "NotebookLM",
+      "directory": "NotebookLM",
+      "status": "READY",
+      "files": [
+        {
+          "name": "Notebook00_Master.json",
+          "size": 40563,
+          "type": ".json"
+        },
+        {
+          "name": "Notebook01_Landing.json",
+          "size": 24867,
+          "type": ".json"
+        },
+        {
+          "name": "Notebook02_Research.json",
+          "size": 2871,
+          "type": ".json"
+        },
+        {
+          "name": "Notebook03_Academic-Service.json",
+          "size": 8978,
+          "type": ".json"
+        },
+        {
+          "name": "Notebook04_News.json",
+          "size": 1200,
+          "type": ".json"
+        },
+        {
+          "name": "Notebook05_Document-Center.json",
+          "size": 801,
+          "type": ".json"
+        },
+        {
+          "name": "notebooks-manifest.json",
+          "size": 1557,
+          "type": ".json"
+        },
+        {
+          "name": "README.md",
+          "size": 1603,
+          "type": ".md"
+        }
+      ],
+      "import_format": "JSON (Notebook format)",
+      "estimated_deployment_time": "15-30 minutes"
+    },
+    "stitch": {
+      "name": "Google Stitch",
+      "directory": "Google-Stitch",
+      "status": "READY",
+      "files": [
+        {
+          "name": "README.md",
+          "size": 498,
+          "type": ".md"
+        },
+        {
+          "name": "stitch-package.json",
+          "size": 40867,
+          "type": ".json"
+        }
+      ],
+      "import_format": "JSON (Landing structure)",
+      "estimated_deployment_time": "30-60 minutes"
+    },
+    "chatgpt": {
+      "name": "ChatGPT/OpenAI",
+      "directory": "ChatGPT",
+      "status": "READY",
+      "files": [
+        {
+          "name": "chatgpt-knowledge.json",
+          "size": 11915,
+          "type": ".json"
+        },
+        {
+          "name": "README.md",
+          "size": 530,
+          "type": ".md"
+        }
+      ],
+      "import_format": "JSON (Knowledge base + prompts)",
+      "estimated_deployment_time": "10-20 minutes"
+    },
+    "cursor": {
+      "name": "Cursor IDE",
+      "directory": "Cursor",
+      "status": "READY",
+      "files": [
+        {
+          "name": "cursor-knowledge.json",
+          "size": 10448,
+          "type": ".json"
+        },
+        {
+          "name": "cursor-rules.json",
+          "size": 653,
+          "type": ".json"
+        },
+        {
+          "name": "README.md",
+          "size": 451,
+          "type": ".md"
+        }
+      ],
+      "import_format": "JSON (Searchable reference)",
+      "estimated_deployment_time": "5-10 minutes"
+    },
+    "m365": {
+      "name": "Microsoft 365",
+      "directory": "Microsoft365",
+      "status": "READY",
+      "files": [
+        {
+          "name": "m365-knowledge.json",
+          "size": 12170,
+          "type": ".json"
+        },
+        {
+          "name": "README.md",
+          "size": 614,
+          "type": ".md"
+        }
+      ],
+      "import_format": "JSON (Teams/SharePoint/Copilot)",
+      "estimated_deployment_time": "60-120 minutes"
+    }
+  },
+  "compatibility_matrix": {
+    "platforms": {
+      "NotebookLM": {
+        "api": "Native",
+        "formats": [
+          "JSON"
+        ],
+        "versions": [
+          "v1+"
+        ],
+        "compatibility": "100%"
+      },
+      "Google Stitch": {
+        "api": "REST",
+        "formats": [
+          "JSON"
+        ],
+        "versions": [
+          "v2+"
+        ],
+        "compatibility": "95%"
+      },
+      "ChatGPT": {
+        "api": "OpenAI API",
+        "formats": [
+          "JSON"
+        ],
+        "versions": [
+          "GPT-4+"
+        ],
+        "compatibility": "100%"
+      },
+      "Cursor": {
+        "api": "IDE Extension",
+        "formats": [
+          "JSON"
+        ],
+        "versions": [
+          "v0.10+"
+        ],
+        "compatibility": "90%"
+      },
+      "Microsoft 365": {
+        "api": "Graph API / Teams SDK",
+        "formats": [
+          "JSON"
+        ],
+        "versions": [
+          "v2.0+"
+        ],
+        "compatibility": "95%"
+      }
+    },
+    "cross_platform_references": "Enabled",
+    "data_consistency": "Validated"
+  },
+  "deployment_checklist": [
+    {
+      "step": 1,
+      "task": "Validate master manifest checksums",
+      "status": "PENDING",
+      "dependencies": []
+    },
+    {
+      "step": 2,
+      "task": "Review quality score (target ≥75)",
+      "status": "PENDING",
+      "dependencies": [
+        "Step 1"
+      ],
+      "current_score": 45
+    },
+    {
+      "step": 3,
+      "task": "Verify all 5 platforms packaged",
+      "status": "PENDING",
+      "dependencies": [
+        "Step 2"
+      ],
+      "platforms_ready": 5
+    },
+    {
+      "step": 4,
+      "task": "Test NotebookLM import (primary platform)",
+      "status": "PENDING",
+      "dependencies": [
+        "Step 3"
+      ]
+    },
+    {
+      "step": 5,
+      "task": "Stage to cloud storage (if approved)",
+      "status": "PENDING",
+      "dependencies": [
+        "Step 4"
+      ]
+    },
+    {
+      "step": 6,
+      "task": "Deploy to production platforms",
+      "status": "PENDING",
+      "dependencies": [
+        "Step 5"
+      ],
+      "platforms": [
+        "NotebookLM",
+        "Google Stitch",
+        "ChatGPT/OpenAI",
+        "Cursor IDE",
+        "Microsoft 365"
+      ]
+    }
+  ],
+  "readiness_assessment": {
+    "phase": "K0.2D-K0.2E (Validation & Packaging)",
+    "completion_status": "COMPLETE",
+    "quality_score": 45,
+    "platforms_ready": 5,
+    "total_platforms": 5,
+    "go_no_go_notebooklm": "⚠️  HOLD (Score: 45, Errors: 1)",
+    "go_no_go_all_platforms": "⚠️  HOLD (Verify all platforms)",
+    "recommendations": [
+      "⚠️  Quality score below 75 threshold — review duplicates and errors"
+    ],
+    "next_phase": "K0.3 (Production Deployment)",
+    "deployment_window": "Ready for Q1 2025 deployment"
+  }
+}

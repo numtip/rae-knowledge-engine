@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "notebook_id": "04",
+    "notebook_name": "News",
+    "title": "News & Events (2568-2569)",
+    "description": "Recent announcements and achievements",
+    "generated": "2026-06-29T06:49:26.320Z",
+    "version": "v1",
+    "story_positions": [
+      "community-impact",
+      "sustainable-agriculture"
+    ],
+    "categories": [
+      "news"
+    ]
+  },
+  "content_sections": [],
+  "taxonomy": {
+    "categories": [
+      "news"
+    ],
+    "distribution": {
+      "news": [
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ]
+    },
+    "coverage": 1
+  },
+  "story_mapping": {
+    "community-impact": {
+      "title": "Community Impact",
+      "narrative_role": "impact",
+      "recommended_section": "impact",
+      "confidence": 1
+    },
+    "sustainable-agriculture": {
+      "title": "Sustainable Agriculture",
+      "narrative_role": "ecosystem",
+      "recommended_section": "impact",
+      "confidence": 0.3333333333333333
+    }
+  },
+  "source_manifest": {
+    "total_items": 0,
+    "items": []
+  }
+}

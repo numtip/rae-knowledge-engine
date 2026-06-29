@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "notebook_id": "OPT-D",
+    "notebook_name": "News & Events",
+    "title": "RAE News, Events & Announcements — Reasoning Domain",
+    "description": "News and events content from B.E. 2568-2569, organized by news categories and event type",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "optimization": "Reorganized by reasoning domain (News & Events)",
+    "original_notebook": "Notebook00_Master, Notebook04_News",
+    "item_count": 7,
+    "knowledge_ids": ["KB-0007", "KB-0019", "KB-0020", "KB-0021", "KB-0022", "KB-0023", "KB-0024"]
+  },
+  "content_sections": [
+    {
+      "domain": "featured-events",
+      "position": 1,
+      "title": "Featured Events & Activities",
+      "items": [
+        {
+          "kb_id": "KB-0007",
+          "title": "RAE — Research Forum & Funding Workshop (16 June 2026)",
+          "description": "Research Forum with ARDA — funding opportunities, proposal writing techniques",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 5,
+          "type": "canonical",
+          "event_date": "2026-06-16"
+        }
+      ]
+    },
+    {
+      "domain": "news-listing",
+      "position": 2,
+      "title": "News Overview & Categories",
+      "items": [
+        {
+          "kb_id": "KB-0019",
+          "title": "RAE — News Listing Page (wID=2065)",
+          "description": "News listing — B.E. 2568-2569 events and announcements",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 3,
+          "type": "reference"
+        },
+        {
+          "kb_id": "KB-0020",
+          "title": "RAE — All News Listing",
+          "description": "Complete news listing — all categories",
+          "source_url": "https://rae.mju.ac.th/wtms_news.aspx?lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "domain": "news-categories",
+      "position": 3,
+      "title": "News by Category",
+      "items": [
+        {
+          "kb_id": "KB-0021",
+          "title": "News: Activities (ข่าวกิจกรรม)",
+          "description": "Activity-related news",
+          "source_url": "https://rae.mju.ac.th/wtms_news.aspx?type=1&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        },
+        {
+          "kb_id": "KB-0022",
+          "title": "News: PR (ข่าวประชาสัมพันธ์)",
+          "description": "Public relations news",
+          "source_url": "https://rae.mju.ac.th/wtms_news.aspx?type=2&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        },
+        {
+          "kb_id": "KB-0023",
+          "title": "News: Procurement/Jobs (ข่าวจัดซื้อ-จัดจ้าง/สมัครงาน)",
+          "description": "Procurement and job application news",
+          "source_url": "https://rae.mju.ac.th/wtms_news.aspx?type=3&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        },
+        {
+          "kb_id": "KB-0024",
+          "title": "News: Announcements (ข่าวประกาศ)",
+          "description": "Announcement news",
+          "source_url": "https://rae.mju.ac.th/wtms_news.aspx?type=6&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        }
+      ]
+    }
+  ],
+  "domain_summary": {
+    "news-events": {
+      "total_items": 7,
+      "canonical_count": 1,
+      "reference_count": 6,
+      "primary_sources": ["https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH"],
+      "key_themes": ["events", "news-categories", "announcements", "activities"]
+    }
+  }
+}

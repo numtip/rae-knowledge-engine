@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "pack_id": "FAQ-001",
+    "pack_name": "FAQ Pack",
+    "title": "RAE Frequently Asked Questions Pack",
+    "description": "Synthesized FAQ from all knowledge categories — research, services, organization, news, and documents",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "target_audience": "website visitors, researchers, students, general public",
+    "item_count": 20,
+    "source_knowledge_ids": ["KB-0001", "KB-0002", "KB-0003", "KB-0004", "KB-0005", "KB-0008", "KB-0009", "KB-0010", "KB-0015", "KB-0019", "KB-0041", "KB-0042"]
+  },
+  "faq_categories": {
+    "general": {
+      "label": "General Information",
+      "questions": [
+        {
+          "id": "FAQ-001",
+          "question": "RAE คืออะไร?",
+          "question_en": "What is RAE?",
+          "answer": "RAE (Research Administration and Engagement) หรือ สำนักวิจัยและส่งเสริมวิชาการการเกษตร เป็นหน่วยงานภายในมหาวิทยาลัยแม่โจ้ ทำหน้าที่บริหารงานวิจัยและบริการวิชาการด้านการเกษตร",
+          "answer_en": "RAE (Research Administration and Engagement) is a department within Maejo University responsible for research administration and academic services in agriculture.",
+          "source_kb_id": "KB-0001",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-002",
+          "question": "RAE ตั้งอยู่ที่ไหน?",
+          "question_en": "Where is RAE located?",
+          "answer": "ชั้น 3 อาคารเฉลิมพระเกียรติสมเด็จพระเทพรัตนราชสุดา 63 หมู่ 4 ตำบลหนองหาร อำเภอสันทราย จังหวัดเชียงใหม่ 50290",
+          "answer_en": "3rd Floor, Chalermprakiat Building, 63 Moo 4, Tambon Nong Han, Amphoe San Sai, Chiang Mai 50290",
+          "source_kb_id": "KB-0008",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-003",
+          "question": "ช่องทางติดต่อ RAE มีอะไรบ้าง?",
+          "question_en": "How can I contact RAE?",
+          "answer": "โทรศัพท์: (+66) 0 5387 3400, อีเมล: raemju@gmail.com หรือ researchmju@mju.ac.th",
+          "answer_en": "Phone: (+66) 0 5387 3400, Email: raemju@gmail.com or researchmju@mju.ac.th",
+          "source_kb_id": "KB-0008",
+          "language": "th"
+        }
+      ]
+    },
+    "research": {
+      "label": "Research Services",
+      "questions": [
+        {
+          "id": "FAQ-004",
+          "question": "RAE มีบริการด้านวิจัยอะไรบ้าง?",
+          "question_en": "What research services does RAE provide?",
+          "answer": "RAE ให้บริการด้านงานวิจัยครอบคลุมการบริหารโครงการวิจัย การสนับสนุนนักวิจัย เอกสารงานวิจัย และการเชื่อมโยงแหล่งทุน",
+          "answer_en": "RAE provides research project administration, researcher support, research documents, and funding connection services.",
+          "source_kb_id": "KB-0004",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-005",
+          "question": "RAE มีกองบริหารงานวิจัยหรือไม่?",
+          "question_en": "Does RAE have a Research Administration Division?",
+          "answer": "ใช่ RAE มีกองบริหารงานวิจัย (Research Administration Division) ที่ดูแลการบริหารโครงการวิจัย ทุนวิจัย และสนับสนุนนักวิจัย",
+          "answer_en": "Yes, RAE has a Research Administration Division that manages research projects, grants, and researcher support.",
+          "source_kb_id": "KB-0006",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-006",
+          "question": "RAE มีเอกสารงานวิจัยให้ดาวน์โหลดหรือไม่?",
+          "question_en": "Does RAE have downloadable research documents?",
+          "answer": "ใช่ มีเอกสารงานวิจัยให้ดาวน์โหลดผ่านหน้าเว็บไซต์ รวมถึงแบบฟอร์ม คู่มือ และเอกสารวิชาการ",
+          "answer_en": "Yes, research documents including forms, guides, and publications are available for download on the website.",
+          "source_kb_id": "KB-0011",
+          "language": "th"
+        }
+      ]
+    },
+    "services": {
+      "label": "Academic Services",
+      "questions": [
+        {
+          "id": "FAQ-007",
+          "question": "RAE มีบริการวิชาการอะไรบ้าง?",
+          "question_en": "What academic services does RAE offer?",
+          "answer": "RAE มีกองบริหารงานบริการวิชาการที่ให้บริการด้านการฝึกอบรม การให้คำปรึกษา บริการห้องปฏิบัติการ และการบริการวิชาการแก่ชุมชน",
+          "answer_en": "RAE has an Academic Service Division offering training, consulting, laboratory services, and community extension services.",
+          "source_kb_id": "KB-0005",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-008",
+          "question": "RAE ให้บริการอบรมหรือไม่?",
+          "question_en": "Does RAE provide training?",
+          "answer": "ใช่ RAE มีการจัดอบรมและพัฒนาศักยภาพนักวิจัย เช่น โครงการ Research Forum และการอบรมเทคนิคการเขียนข้อเสนอโครงการวิจัย",
+          "answer_en": "Yes, RAE organizes training and researcher development programs such as the Research Forum and proposal writing workshops.",
+          "source_kb_id": "KB-0007",
+          "language": "th"
+        }
+      ]
+    },
+    "organization": {
+      "label": "Organization & Structure",
+      "questions": [
+        {
+          "id": "FAQ-009",
+          "question": "RAE มีโครงสร้างองค์กรอย่างไร?",
+          "question_en": "What is RAE's organizational structure?",
+          "answer": "RAE ประกอบด้วย 3 กองหลัก: กองบริหารงานวิจัย, กองบริหารงานสำนักวิจัยฯ, และกองบริหารงานบริการวิชาการ",
+          "answer_en": "RAE consists of 3 core divisions: Research Administration, RAE Office Administration, and Academic Service Administration.",
+          "source_kb_id": "KB-0009",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-010",
+          "question": "RAE มีปรัชญาและวิสัยทัศน์อย่างไร?",
+          "question_en": "What is RAE's philosophy and vision?",
+          "answer": "ปรัชญา: 'มุ่งพัฒนางานวิจัยและบริการวิชาการสู่สังคม โดยมีการเกษตรเป็นรากฐาน' วิสัยทัศน์: 'เป็นศูนย์กลางการพัฒนางานวิจัยและบริการวิชาการ เพื่อผลักดันมหาวิทยาลัยสู่ระดับนานาชาติ'",
+          "answer_en": "Philosophy: 'Advance research and academic services to society, grounded in agriculture.' Vision: 'Become a center for research and academic service development toward international recognition.'",
+          "source_kb_id": "KB-0001",
+          "language": "th"
+        }
+      ]
+    },
+    "funding": {
+      "label": "Funding & Grants",
+      "questions": [
+        {
+          "id": "FAQ-011",
+          "question": "RAE มีแหล่งทุนวิจัยอะไรบ้าง?",
+          "question_en": "What research funding sources does RAE have?",
+          "answer": "RAE เชื่อมโยงกับแหล่งทุน เช่น สำนักงานพัฒนาการวิจัยการเกษตร (สวก./ARDA) ทั้งกองทุน Strategic Fund (SF) และ Research Utilization (RU)",
+          "answer_en": "RAE connects to funding sources such as ARDA (Agricultural Research Development Agency) including Strategic Fund (SF) and Research Utilization (RU) programs.",
+          "source_kb_id": "KB-0041",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-012",
+          "question": "ARSDA Strategic Fund (SF) คืออะไร?",
+          "question_en": "What is ARDA Strategic Fund (SF)?",
+          "answer": "กองทุน Strategic Fund (SF) ของ สวก. เปิดรับข้อเสนอแผนงานวิจัย 'ด้านการเกษตรและนวัตกรรม' ประจำปีงบประมาณ พ.ศ. 2570",
+          "answer_en": "ARDA Strategic Fund (SF) accepts research proposals on 'Agriculture and Innovation' for fiscal year 2570 (2027).",
+          "source_kb_id": "KB-0041",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-013",
+          "question": "ARDA Research Utilization (RU) คืออะไร?",
+          "question_en": "What is ARDA Research Utilization (RU)?",
+          "answer": "กองทุน Research Utilization (RU) ของ สวก. เปิดรับข้อเสนอ 'ด้านการนำผลงานวิจัยและนวัตกรรมไปใช้ประโยชน์' ประจำปีงบประมาณ พ.ศ. 2570",
+          "answer_en": "ARDA Research Utilization (RU) accepts proposals on 'Research and Innovation Utilization' for fiscal year 2570 (2027).",
+          "source_kb_id": "KB-0042",
+          "language": "th"
+        }
+      ]
+    },
+    "news": {
+      "label": "News & Events",
+      "questions": [
+        {
+          "id": "FAQ-014",
+          "question": "RAE มีข่าวกิจกรรมอะไรล่าสุด?",
+          "question_en": "What are the latest RAE news and activities?",
+          "answer": "ล่าสุด RAE จัดโครงการ Research Forum การอบรม 'นักวิจัยพบแหล่งทุน สวก.' เมื่อวันที่ 16 มิถุนายน 2569 โดยมีผู้ช่วยศาสตราจารย์ ดร.สุริยจรัส เตชะตันมีนสกุล รองอธิการบดี เป็นประธาน",
+          "answer_en": "Most recently, RAE held a Research Forum on 'Researchers Meet ARDA Funding' on 16 June 2026, chaired by Asst. Prof. Dr. Suriyajaras Techatanmeinsakul, Vice President of MJU.",
+          "source_kb_id": "KB-0007",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-015",
+          "question": "RAE มีหมวดข่าวอะไรบ้าง?",
+          "question_en": "What news categories does RAE have?",
+          "answer": "RAE มี 4 หมวดข่าว: ข่าวกิจกรรม, ข่าวประชาสัมพันธ์, ข่าวจัดซื้อ-จัดจ้าง/สมัครงาน, และข่าวประกาศ",
+          "answer_en": "RAE has 4 news categories: Activities, PR, Procurement/Jobs, and Announcements.",
+          "source_kb_id": "KB-0019",
+          "language": "th"
+        }
+      ]
+    },
+    "practical": {
+      "label": "Practical Information",
+      "questions": [
+        {
+          "id": "FAQ-016",
+          "question": "ฉันจะสมัครงานที่ RAE ได้อย่างไร?",
+          "question_en": "How can I apply for jobs at RAE?",
+          "answer": "ติดตามประกาศรับสมัครงานได้ที่หมวดข่าวจัดซื้อ-จัดจ้าง/สมัครงาน บนเว็บไซต์ RAE",
+          "answer_en": "Follow job announcements in the Procurement/Jobs news category on the RAE website.",
+          "source_kb_id": "KB-0023",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-017",
+          "question": "RAE ใช้ภาษาไหนบนเว็บไซต์?",
+          "question_en": "What languages does the RAE website support?",
+          "answer": "RAE รองรับ 2 ภาษา: ภาษาไทย (th-TH) และภาษาอังกฤษ (en-US)",
+          "answer_en": "RAE supports 2 languages: Thai (th-TH) and English (en-US).",
+          "source_kb_id": "KB-0016",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-018",
+          "question": "ใครคือผู้บริหารของ RAE?",
+          "question_en": "Who are the executives of RAE?",
+          "answer": "RAE มีโครงสร้างผู้บริหารภายใต้มหาวิทยาลัยแม่โจ้ โดยมีรองอธิการบดีกำกับดูแล เช่น ผู้ช่วยศาสตราจารย์ ดร.สุริยจรัส เตชะตันมีนสกุล รองอธิการบดีที่เกี่ยวข้องกับงานวิจัย",
+          "answer_en": "RAE has an executive structure under Maejo University, overseen by a Vice President such as Asst. Prof. Dr. Suriyajaras Techatanmeinsakul.",
+          "source_kb_id": "KB-0013",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-019",
+          "question": "RAE มีบุคลากรกี่คน?",
+          "question_en": "How many staff does RAE have?",
+          "answer": "RAE มีบุคลากรกระจายอยู่ใน 3 กองหลัก: กองบริหารงานวิจัย, กองบริหารงานสำนักวิจัยฯ, และกองบริหารงานบริการวิชาการ",
+          "answer_en": "RAE has personnel distributed across 3 core divisions: Research Administration, RAE Office Administration, and Academic Service Administration.",
+          "source_kb_id": "KB-0010",
+          "language": "th"
+        },
+        {
+          "id": "FAQ-020",
+          "question": "RAE เชื่อมโยงกับมหาวิทยาลัยแม่อย่างไร?",
+          "question_en": "How is RAE connected to the parent university?",
+          "answer": "RAE เป็นหน่วยงานภายในมหาวิทยาลัยแม่โจ้ (Maejo University) ทำหน้าที่บริหารงานวิจัยและบริการวิชาการภายใต้โครงสร้างการบริหารของมหาวิทยาลัย",
+          "answer_en": "RAE is an internal department of Maejo University, responsible for research administration and academic services under the university's administrative structure.",
+          "source_kb_id": "KB-0003",
+          "language": "th"
+        }
+      ]
+    }
+  },
+  "usage_notes": {
+    "recommended_use": "Website FAQ section, chatbot responses, public information kiosk, orientation materials",
+    "ai_context_size": "medium",
+    "priority_level": "high",
+    "total_questions": 20,
+    "languages": ["thai", "english"]
+  }
+}

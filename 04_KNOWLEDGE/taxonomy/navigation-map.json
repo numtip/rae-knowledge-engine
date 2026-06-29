@@ -1,0 +1,132 @@
+{
+  "main_navigation": [
+    {
+      "label": "Home",
+      "path": "/",
+      "icon": "home",
+      "items_count": 1
+    },
+    {
+      "label": "About",
+      "path": "/about",
+      "icon": "info",
+      "submenu": [
+        {
+          "label": "Mission & Vision",
+          "path": "/about/mission"
+        },
+        {
+          "label": "Organization",
+          "path": "/about/organization"
+        },
+        {
+          "label": "Contact",
+          "path": "/about/contact"
+        }
+      ],
+      "items_count": 0
+    },
+    {
+      "label": "Research",
+      "path": "/research",
+      "icon": "microscope",
+      "submenu": [
+        {
+          "label": "Research Areas",
+          "path": "/research/areas"
+        },
+        {
+          "label": "Active Projects",
+          "path": "/research/projects"
+        },
+        {
+          "label": "Publications",
+          "path": "/research/publications"
+        },
+        {
+          "label": "Researchers",
+          "path": "/research/researchers"
+        }
+      ],
+      "items_count": 4
+    },
+    {
+      "label": "Services",
+      "path": "/services",
+      "icon": "briefcase",
+      "submenu": [
+        {
+          "label": "Training",
+          "path": "/services/training"
+        },
+        {
+          "label": "Consulting",
+          "path": "/services/consulting"
+        },
+        {
+          "label": "Lab Services",
+          "path": "/services/lab-services"
+        },
+        {
+          "label": "Extension",
+          "path": "/services/extension"
+        }
+      ],
+      "items_count": 0
+    },
+    {
+      "label": "Documents",
+      "path": "/documents",
+      "icon": "file",
+      "submenu": [
+        {
+          "label": "Research Guides",
+          "path": "/documents/research"
+        },
+        {
+          "label": "Service Guides",
+          "path": "/documents/services"
+        },
+        {
+          "label": "Forms",
+          "path": "/documents/forms"
+        }
+      ],
+      "items_count": 0
+    },
+    {
+      "label": "News",
+      "path": "/news",
+      "icon": "newspaper",
+      "submenu": [
+        {
+          "label": "Latest",
+          "path": "/news/latest"
+        },
+        {
+          "label": "B.E. 2569",
+          "path": "/news/2569"
+        },
+        {
+          "label": "B.E. 2568",
+          "path": "/news/2568"
+        }
+      ],
+      "items_count": 0
+    }
+  ],
+  "footer_navigation": [
+    {
+      "label": "Privacy Policy",
+      "path": "/privacy"
+    },
+    {
+      "label": "Terms of Service",
+      "path": "/terms"
+    },
+    {
+      "label": "Contact",
+      "path": "/contact"
+    }
+  ]
+}

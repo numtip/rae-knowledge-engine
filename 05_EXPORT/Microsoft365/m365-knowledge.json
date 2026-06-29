@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "platform": "Microsoft 365",
+    "generated": "2026-06-29T06:50:00.849Z",
+    "version": "v1",
+    "services": [
+      "Teams",
+      "SharePoint",
+      "Copilot",
+      "Graph API"
+    ],
+    "content_count": 10
+  },
+  "teams_content": {
+    "bot_knowledge": [
+      {
+        "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "category": "organization",
+        "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067"
+      },
+      {
+        "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "category": "research",
+        "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064"
+      },
+      {
+        "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "category": "services",
+        "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066"
+      },
+      {
+        "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "category": "services",
+        "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064"
+      },
+      {
+        "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "category": "services",
+        "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065"
+      },
+      {
+        "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "category": "services",
+        "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066"
+      },
+      {
+        "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "category": "services",
+        "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067"
+      }
+    ],
+    "adaptive_cards": {
+      "landing_hero": {
+        "title": "RAE Overview",
+        "category": "landing"
+      },
+      "research_card": {
+        "title": "Research Programs",
+        "category": "research"
+      },
+      "services_card": {
+        "title": "Academic Services",
+        "category": "services"
+      }
+    }
+  },
+  "sharepoint_structure": {
+    "library_name": "RAE Knowledge Base",
+    "folders": [
+      "Research",
+      "Services",
+      "News & Events",
+      "Documents",
+      "Organization"
+    ],
+    "content_types": [
+      "Research Project",
+      "Service Offering",
+      "News Item",
+      "Document"
+    ],
+    "retention_policy": "7 years"
+  },
+  "copilot_training": {
+    "training_data": [
+      {
+        "prompt": "Tell me about สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ th หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+        "response": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส is a key resource in RAE's landing domain.",
+        "source": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "confidence": 0.75
+      },
+      {
+        "prompt": "Tell me about --> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ the office of agricultural research and e",
+        "response": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E is a key resource in RAE's news domain.",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+        "confidence": 0.7
+      },
+      {
+        "prompt": "Tell me about --> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ the office of agricultural research and e",
+        "response": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E is a key resource in RAE's organization domain.",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+        "confidence": 0.9
+      },
+      {
+        "prompt": "Tell me about --> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ the office of agricultural research and e",
+        "response": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E is a key resource in RAE's research domain.",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+        "confidence": 0.95
+      },
+      {
+        "prompt": "Tell me about --> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ the office of agricultural research and e",
+        "response": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E is a key resource in RAE's services domain.",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+        "confidence": 0.85
+      },
+      {
+        "prompt": "Tell me about สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ th หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+        "response": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส is a key resource in RAE's landing domain.",
+        "source": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "confidence": 0.75
+      },
+      {
+        "prompt": "Tell me about --> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ the office of agricultural research and e",
+        "response": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E is a key resource in RAE's services domain.",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+        "confidence": 0.85
+      },
+      {
+        "prompt": "Tell me about --> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ the office of agricultural research and e",
+        "response": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E is a key resource in RAE's services domain.",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+        "confidence": 0.85
+      },
+      {
+        "prompt": "Tell me about --> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ the office of agricultural research and e",
+        "response": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E is a key resource in RAE's services domain.",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+        "confidence": 0.85
+      },
+      {
+        "prompt": "Tell me about --> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ the office of agricultural research and e",
+        "response": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E is a key resource in RAE's services domain.",
+        "source": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+        "confidence": 0.85
+      }
+    ],
+    "rag_config": {
+      "enabled": true,
+      "index": "rae-knowledge-v1",
+      "similarity_threshold": 0.7
+    }
+  },
+  "graph_api_manifest": {
+    "app_name": "RAE Knowledge App",
+    "app_id": "rae-knowledge-m365",
+    "permissions": [
+      "Sites.Read.All",
+      "People.Read.All",
+      "Calendars.Read.Shared"
+    ],
+    "search_scope": [
+      "RAE Knowledge Library"
+    ]
+  }
+}

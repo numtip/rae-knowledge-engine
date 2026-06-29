@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "notebook_id": "05",
+    "notebook_name": "Document-Center",
+    "title": "Document & Resource Center",
+    "description": "Publications, reports, resources",
+    "generated": "2026-06-29T06:49:26.320Z",
+    "version": "v1",
+    "story_positions": [
+      "knowledge-ecosystem"
+    ],
+    "categories": [
+      "faq",
+      "other"
+    ]
+  },
+  "content_sections": [],
+  "taxonomy": {
+    "categories": [
+      "faq",
+      "other"
+    ],
+    "distribution": {},
+    "coverage": 0
+  },
+  "story_mapping": {
+    "knowledge-ecosystem": {
+      "title": "Knowledge Ecosystem",
+      "narrative_role": "ecosystem",
+      "recommended_section": "knowledge-ecosystem",
+      "confidence": 0.3333333333333333
+    }
+  },
+  "source_manifest": {
+    "total_items": 0,
+    "items": []
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "generated": "2026-06-29T06:18:44.317Z",
+    "version": "1.0",
+    "total_categories": 10
+  },
+  "categories": {
+    "landing": {
+      "path": "/",
+      "label": "Landing",
+      "priority": 0,
+      "icon": "home",
+      "subcategories": [],
+      "items_count": 1,
+      "items": [
+        {
+          "source_url": "https://rae.mju.ac.th/unknown",
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "importance": 3
+        }
+      ]
+    },
+    "about": {
+      "path": "/about",
+      "label": "About",
+      "priority": 0,
+      "icon": "info",
+      "subcategories": [
+        "mission",
+        "vision",
+        "organization",
+        "contact"
+      ],
+      "items_count": 0,
+      "items": []
+    },
+    "research": {
+      "path": "/research",
+      "label": "Research",
+      "priority": 1,
+      "icon": "microscope",
+      "subcategories": [
+        "research-areas",
+        "projects",
+        "publications",
+        "researchers",
+        "facilities"
+      ],
+      "items_count": 4,
+      "items": [
+        {
+          "source_url": "https://rae.mju.ac.th/unknown",
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "importance": 5
+        },
+        {
+          "source_url": "https://rae.mju.ac.th/unknown",
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "importance": 5
+        },
+        {
+          "source_url": "https://rae.mju.ac.th/unknown",
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "importance": 5
+        },
+        {
+          "source_url": "https://rae.mju.ac.th/unknown",
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "importance": 5
+        }
+      ]
+    },
+    "academic-services": {
+      "path": "/services",
+      "label": "Academic Services",
+      "priority": 1,
+      "icon": "briefcase",
+      "subcategories": [
+        "training",
+        "consulting",
+        "lab-services",
+        "extension",
+        "certification"
+      ],
+      "items_count": 0,
+      "items": []
+    },
+    "document-center": {
+      "path": "/documents",
+      "label": "Document Center",
+      "priority": 1,
+      "icon": "file",
+      "subcategories": [
+        "research-guides",
+        "service-guides",
+        "forms",
+        "reports",
+        "manuals"
+      ],
+      "items_count": 0,
+      "items": []
+    },
+    "news": {
+      "path": "/news",
+      "label": "News",
+      "priority": 1,
+      "icon": "newspaper",
+      "subcategories": [
+        "research-news",
+        "service-news",
+        "announcements",
+        "events"
+      ],
+      "items_count": 0,
+      "items": []
+    },
+    "organization": {
+      "path": "/organization",
+      "label": "Organization",
+      "priority": 2,
+      "icon": "organization",
+      "subcategories": [
+        "departments",
+        "contacts",
+        "structure"
+      ],
+      "items_count": 0,
+      "items": []
+    },
+    "partners": {
+      "path": "/partners",
+      "label": "Partners",
+      "priority": 2,
+      "icon": "link",
+      "subcategories": [],
+      "items_count": 0,
+      "items": []
+    },
+    "media": {
+      "path": "/media",
+      "label": "Media",
+      "priority": 3,
+      "icon": "images",
+      "subcategories": [],
+      "items_count": 0,
+      "items": []
+    },
+    "archive": {
+      "path": "/archive",
+      "label": "Archive",
+      "priority": 99,
+      "icon": "archive",
+      "subcategories": [],
+      "items_count": 0,
+      "items": []
+    }
+  }
+}

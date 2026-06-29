@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "file_type": "chunk_manifest",
+    "description": "Chunk manifest for embedding preparation — defines recommended chunking strategy and metadata per knowledge record",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "total_chunks_projected": 60,
+    "chunking_strategy": "semantic_by_domain",
+    "recommended_chunk_size": 512,
+    "recommended_overlap": 64,
+    "chunking_notes": "Chunk by semantic section boundaries within each knowledge domain. Canonical records may be kept as single chunks."
+  },
+  "chunking_strategy": {
+    "method": "semantic_section_boundary",
+    "chunk_size_tokens": 512,
+    "overlap_tokens": 64,
+    "boundary_markers": ["title", "heading", "section_change", "domain_boundary"],
+    "preserve_canonical_integrity": true
+  },
+  "chunks": [
+    {"chunk_id": "CHUNK-001", "kb_id": "KB-0001", "title": "RAE — Mission Statement", "estimated_chunks": 1, "chunk_type": "canonical_single", "priority": 1, "domain": "identity-mission"},
+    {"chunk_id": "CHUNK-002", "kb_id": "KB-0002", "title": "RAE — Vision Statement", "estimated_chunks": 1, "chunk_type": "canonical_single", "priority": 1, "domain": "identity-mission"},
+    {"chunk_id": "CHUNK-003", "kb_id": "KB-0003", "title": "RAE — Organizational Structure", "estimated_chunks": 1, "chunk_type": "canonical_single", "priority": 1, "domain": "organization-governance"},
+    {"chunk_id": "CHUNK-004", "kb_id": "KB-0004", "title": "RAE — Research Services Overview", "estimated_chunks": 2, "chunk_type": "section_split", "priority": 1, "domain": "research-services"},
+    {"chunk_id": "CHUNK-005", "kb_id": "KB-0005", "title": "RAE — Academic Services Division", "estimated_chunks": 1, "chunk_type": "canonical_single", "priority": 2, "domain": "research-services"},
+    {"chunk_id": "CHUNK-006", "kb_id": "KB-0006", "title": "RAE — Research Administration Division", "estimated_chunks": 1, "chunk_type": "canonical_single", "priority": 2, "domain": "organization-governance"},
+    {"chunk_id": "CHUNK-007", "kb_id": "KB-0007", "title": "RAE — Research Forum & Funding Workshop", "estimated_chunks": 4, "chunk_type": "section_split", "priority": 1, "domain": "news-events"},
+    {"chunk_id": "CHUNK-008", "kb_id": "KB-0008", "title": "RAE — Contact Information", "estimated_chunks": 1, "chunk_type": "canonical_single", "priority": 2, "domain": "organization-governance"},
+    {"chunk_id": "CHUNK-009", "kb_id": "KB-0009", "title": "RAE — Internal Divisions Overview", "estimated_chunks": 1, "chunk_type": "canonical_single", "priority": 2, "domain": "organization-governance"},
+    {"chunk_id": "CHUNK-010", "kb_id": "KB-0010", "title": "RAE — Personnel & Staff Directory", "estimated_chunks": 2, "chunk_type": "section_split", "priority": 2, "domain": "organization-governance"},
+    {"chunk_id": "CHUNK-011", "kb_id": "KB-0011", "title": "RAE — Document Downloads", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-012", "kb_id": "KB-0012", "title": "RAE — History & Background", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "identity-mission"},
+    {"chunk_id": "CHUNK-013", "kb_id": "KB-0013", "title": "RAE — Executive Management Structure", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "organization-governance"},
+    {"chunk_id": "CHUNK-014", "kb_id": "KB-0014", "title": "RAE — Administrative Management Structure", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "organization-governance"},
+    {"chunk_id": "CHUNK-015", "kb_id": "KB-0015", "title": "RAE — Landing Page Navigation Structure", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "identity-mission"},
+    {"chunk_id": "CHUNK-016", "kb_id": "KB-0016", "title": "RAE — Language Switch & Accessibility", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "identity-mission"},
+    {"chunk_id": "CHUNK-017", "kb_id": "KB-0017", "title": "RAE — Related Website Links", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "identity-mission"},
+    {"chunk_id": "CHUNK-018", "kb_id": "KB-0018", "title": "RAE — Landing Page Hero Slideshow", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "identity-mission"},
+    {"chunk_id": "CHUNK-019", "kb_id": "KB-0019", "title": "RAE — News Listing Page", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "news-events"},
+    {"chunk_id": "CHUNK-020", "kb_id": "KB-0020", "title": "RAE — All News Listing", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "news-events"},
+    {"chunk_id": "CHUNK-021", "kb_id": "KB-0021", "title": "RAE — News Category: Activities", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "news-events"},
+    {"chunk_id": "CHUNK-022", "kb_id": "KB-0022", "title": "RAE — News Category: PR", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "news-events"},
+    {"chunk_id": "CHUNK-023", "kb_id": "KB-0023", "title": "RAE — News Category: Procurement/Jobs", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "news-events"},
+    {"chunk_id": "CHUNK-024", "kb_id": "KB-0024", "title": "RAE — News Category: Announcements", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "news-events"},
+    {"chunk_id": "CHUNK-025", "kb_id": "KB-0025", "title": "RAE — Research Detail: wID=2022", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-026", "kb_id": "KB-0026", "title": "RAE — Research Detail: wID=2387", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-027", "kb_id": "KB-0027", "title": "RAE — Research Detail: wID=1960", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-028", "kb_id": "KB-0028", "title": "RAE — Research Detail: wID=1908", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-029", "kb_id": "KB-0029", "title": "RAE — Research Detail: wID=1941", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-030", "kb_id": "KB-0030", "title": "RAE — Research Detail: wID=2042", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-031", "kb_id": "KB-0031", "title": "RAE — Research Detail: wID=2043", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-032", "kb_id": "KB-0032", "title": "RAE — Research Detail: wID=2390", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-033", "kb_id": "KB-0033", "title": "RAE — Research Detail: wID=2463", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-034", "kb_id": "KB-0034", "title": "RAE — Research Detail: wID=2012", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-035", "kb_id": "KB-0035", "title": "RAE — Research Detail: wID=2013", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-036", "kb_id": "KB-0036", "title": "RAE — Research Detail: wID=1909", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-037", "kb_id": "KB-0037", "title": "RAE — Research Detail: wID=954", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-038", "kb_id": "KB-0038", "title": "RAE — Research Detail: wID=2744", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-039", "kb_id": "KB-0039", "title": "RAE — Research Detail: wID=2602", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-040", "kb_id": "KB-0040", "title": "RAE — Research Detail: wID=2721", "estimated_chunks": 1, "chunk_type": "reference", "priority": 3, "domain": "research-services"},
+    {"chunk_id": "CHUNK-041", "kb_id": "KB-0041", "title": "RAE — ARDA Strategic Fund Documents", "estimated_chunks": 2, "chunk_type": "section_split", "priority": 3, "domain": "funding-documents"},
+    {"chunk_id": "CHUNK-042", "kb_id": "KB-0042", "title": "RAE — ARDA Research Utilization Documents", "estimated_chunks": 2, "chunk_type": "section_split", "priority": 3, "domain": "funding-documents"},
+    {"chunk_id": "CHUNK-043", "kb_id": "KB-0043", "title": "RAE — General Page: wID=914", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "funding-documents"},
+    {"chunk_id": "CHUNK-044", "kb_id": "KB-0044", "title": "RAE — General Page: wID=2603", "estimated_chunks": 1, "chunk_type": "reference", "priority": 4, "domain": "funding-documents"}
+  ],
+  "chunk_stats": {
+    "total_chunks": 44,
+    "projected_total_chunks_after_splitting": 60,
+    "by_chunk_type": {
+      "canonical_single": 9,
+      "section_split": 5,
+      "reference": 30
+    },
+    "by_domain": {
+      "identity-mission": 7,
+      "organization-governance": 7,
+      "research-services": 19,
+      "news-events": 7,
+      "funding-documents": 4
+    }
+  }
+}

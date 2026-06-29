@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "generated": "2026-06-29T06:18:32.148Z",
+    "total_items": 5,
+    "action_distribution": {
+      "KEEP": 5,
+      "REWRITE": 0,
+      "MERGE": 0,
+      "ARCHIVE": 0,
+      "EXCLUDE": 0
+    },
+    "importance_distribution": {
+      "3": 1,
+      "5": 4
+    },
+    "ai_priority_distribution": {
+      "medium": 1,
+      "critical": 4
+    }
+  },
+  "items": [
+    {
+      "source_url": "https://rae.mju.ac.th/unknown",
+      "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+      "category": "landing",
+      "action": "KEEP",
+      "importance": 3,
+      "ai_priority": "medium",
+      "homepage_candidate": false,
+      "research_candidate": false,
+      "service_candidate": false,
+      "document_candidate": false,
+      "reason": "Supporting content",
+      "confidence": 0.75,
+      "notes": ""
+    },
+    {
+      "source_url": "https://rae.mju.ac.th/unknown",
+      "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "category": "research",
+      "action": "KEEP",
+      "importance": 5,
+      "ai_priority": "critical",
+      "homepage_candidate": false,
+      "research_candidate": true,
+      "service_candidate": false,
+      "document_candidate": false,
+      "reason": "Primary research content",
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "source_url": "https://rae.mju.ac.th/unknown",
+      "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "category": "research",
+      "action": "KEEP",
+      "importance": 5,
+      "ai_priority": "critical",
+      "homepage_candidate": false,
+      "research_candidate": true,
+      "service_candidate": false,
+      "document_candidate": false,
+      "reason": "Primary research content",
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "source_url": "https://rae.mju.ac.th/unknown",
+      "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "category": "research",
+      "action": "KEEP",
+      "importance": 5,
+      "ai_priority": "critical",
+      "homepage_candidate": false,
+      "research_candidate": true,
+      "service_candidate": false,
+      "document_candidate": false,
+      "reason": "Primary research content",
+      "confidence": 0.95,
+      "notes": ""
+    },
+    {
+      "source_url": "https://rae.mju.ac.th/unknown",
+      "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "category": "research",
+      "action": "KEEP",
+      "importance": 5,
+      "ai_priority": "critical",
+      "homepage_candidate": false,
+      "research_candidate": true,
+      "service_candidate": false,
+      "document_candidate": false,
+      "reason": "Primary research content",
+      "confidence": 0.95,
+      "notes": ""
+    }
+  ]
+}

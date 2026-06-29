@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "generated": "2026-06-29T06:35:12.019Z",
+    "wave": "K0.2B Wave 1",
+    "total_sections": 7
+  },
+  "content_structure": [
+    {
+      "id": "hero",
+      "title": "Hero Section",
+      "story_nodes": [
+        {
+          "node_id": "mission",
+          "node_title": "Mission & Vision",
+          "narrative_role": "opening"
+        }
+      ],
+      "content_items": [
+        {
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source": "Wave 1 Classification"
+        }
+      ]
+    },
+    {
+      "id": "at-a-glance",
+      "title": "At-a-Glance Overview",
+      "story_nodes": [
+        {
+          "node_id": "research",
+          "node_title": "Research Excellence",
+          "narrative_role": "credibility"
+        }
+      ],
+      "content_items": [
+        {
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "title": "Research Excellence",
+      "story_nodes": [
+        {
+          "node_id": "knowledge-creation",
+          "node_title": "Knowledge Creation",
+          "narrative_role": "capability"
+        }
+      ],
+      "content_items": [
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Academic Services",
+      "story_nodes": [
+        {
+          "node_id": "innovation",
+          "node_title": "Innovation",
+          "narrative_role": "capability"
+        },
+        {
+          "node_id": "academic-services",
+          "node_title": "Academic Services",
+          "narrative_role": "service"
+        },
+        {
+          "node_id": "technology-transfer",
+          "node_title": "Technology Transfer",
+          "narrative_role": "proof"
+        }
+      ],
+      "content_items": [
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        }
+      ]
+    },
+    {
+      "id": "impact",
+      "title": "Community Impact",
+      "story_nodes": [
+        {
+          "node_id": "community-impact",
+          "node_title": "Community Impact",
+          "narrative_role": "impact"
+        },
+        {
+          "node_id": "sustainable-agriculture",
+          "node_title": "Sustainable Agriculture",
+          "narrative_role": "ecosystem"
+        }
+      ],
+      "content_items": [
+        {
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source": "Wave 1 Classification"
+        },
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        }
+      ]
+    },
+    {
+      "id": "knowledge-ecosystem",
+      "title": "Knowledge Ecosystem",
+      "story_nodes": [
+        {
+          "node_id": "knowledge-ecosystem",
+          "node_title": "Knowledge Ecosystem",
+          "narrative_role": "ecosystem"
+        }
+      ],
+      "content_items": [
+        {
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source": "Wave 1 Classification"
+        }
+      ]
+    },
+    {
+      "id": "footer",
+      "title": "Footer",
+      "story_nodes": [
+        {
+          "node_id": "future",
+          "node_title": "Future of Agriculture",
+          "narrative_role": "future"
+        }
+      ],
+      "content_items": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "pack_id": "EXEC-001",
+    "pack_name": "Executive Pack",
+    "title": "RAE Executive Knowledge Pack",
+    "description": "Executive-level summary of RAE: mission, vision, organizational overview, strategic direction, and key contacts",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "target_audience": "executives, administrators, decision-makers",
+    "item_count": 10,
+    "knowledge_ids": ["KB-0001", "KB-0002", "KB-0003", "KB-0006", "KB-0008", "KB-0009", "KB-0013", "KB-0014", "KB-0010", "KB-0007"]
+  },
+  "executive_summary": {
+    "organization": "RAE — Research Administration and Engagement, Maejo University",
+    "philosophy": "มุ่งพัฒนางานวิจัยและบริการวิชาการสู่สังคม โดยมีการเกษตรเป็นรากฐาน (Advance research and academic services to society, grounded in agriculture)",
+    "vision": "เป็นศูนย์กลางการพัฒนางานวิจัยและบริการวิชาการ เพื่อผลักดันมหาวิทยาลัยสู่ระดับนานาชาติ (Become a center for research and academic service development to drive the university toward international recognition)",
+    "core_divisions": [
+      "กองบริหารงานวิจัย (Research Administration Division)",
+      "กองบริหารงานสำนักวิจัยฯ (RAE Office Administration Division)",
+      "กองบริหารงานบริการวิชาการ (Academic Service Administration Division)"
+    ],
+    "key_contacts": {
+      "address": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ ชั้น 3 อาคารเฉลิมพระเกียรติสมเด็จพระเทพรัตนราชสุดา 63 หมู่ 4 ตำบลหนองหาร อำเภอสันทราย จังหวัดเชียงใหม่ 50290",
+      "phone": "(+66) 0 5387 3400",
+      "email": ["raemju@gmail.com", "researchmju@mju.ac.th"]
+    },
+    "recent_highlights": [
+      "Research Forum with ARDA (16 June 2026) — funding opportunities for fiscal year 2570"
+    ]
+  },
+  "content": {
+    "identity": [
+      {"kb_id": "KB-0001", "title": "Mission Statement", "importance": 5},
+      {"kb_id": "KB-0002", "title": "Vision Statement", "importance": 5}
+    ],
+    "structure": [
+      {"kb_id": "KB-0003", "title": "Organizational Structure", "importance": 5},
+      {"kb_id": "KB-0009", "title": "Internal Divisions Overview", "importance": 4},
+      {"kb_id": "KB-0006", "title": "Research Administration Division", "importance": 4},
+      {"kb_id": "KB-0013", "title": "Executive Management Structure", "importance": 4},
+      {"kb_id": "KB-0014", "title": "Administrative Management Structure", "importance": 3},
+      {"kb_id": "KB-0010", "title": "Personnel & Staff Directory", "importance": 4}
+    ],
+    "contacts": [
+      {"kb_id": "KB-0008", "title": "Contact Information", "importance": 4}
+    ],
+    "highlights": [
+      {"kb_id": "KB-0007", "title": "Research Forum & Funding Workshop", "importance": 5}
+    ]
+  },
+  "usage_notes": {
+    "recommended_use": "Quick executive briefing, organizational overview, strategic planning reference",
+    "ai_context_size": "compact",
+    "priority_level": "critical"
+  }
+}

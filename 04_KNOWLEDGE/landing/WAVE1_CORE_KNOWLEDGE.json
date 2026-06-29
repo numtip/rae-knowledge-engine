@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "phase": "K0.2A",
+    "wave": "Wave 1",
+    "generated": "2026-06-29T00:00:00Z",
+    "status": "review_ready",
+    "total_pages": 5,
+    "total_characters": 27920,
+    "total_links": 233,
+    "quality_rating": "high"
+  },
+  "pages": [
+    {
+      "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+      "title": "Landing Page",
+      "category": "landing",
+      "action": "KEEP",
+      "importance": 5,
+      "ai_priority": "critical",
+      "character_count": 22562,
+      "links_discovered": 76,
+      "language": "th",
+      "status": "extracted",
+      "text_file": "02_CRAWLED/text/landing/wtms_index_aspx_lang_th-TH-2026-06-29.txt"
+    },
+    {
+      "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+      "title": "Research Services",
+      "category": "research",
+      "action": "KEEP",
+      "importance": 5,
+      "ai_priority": "critical",
+      "character_count": 1411,
+      "links_discovered": 52,
+      "language": "th",
+      "status": "extracted",
+      "text_file": "02_CRAWLED/text/research/wtms_webpageDetail_aspx_wID_2064-2026-06-29.txt"
+    },
+    {
+      "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+      "title": "News/Updates",
+      "category": "news",
+      "action": "ARCHIVE",
+      "importance": 3,
+      "ai_priority": "medium",
+      "character_count": 1349,
+      "links_discovered": 35,
+      "language": "th",
+      "status": "flagged_for_review",
+      "flag_reason": "News date unknown - no Buddhist year (BE 2568/2569) detected",
+      "text_file": "02_CRAWLED/text/news/wtms_webpageDetail_aspx_wID_2065-2026-06-29.txt"
+    },
+    {
+      "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+      "title": "Services",
+      "category": "services",
+      "action": "KEEP",
+      "importance": 4,
+      "ai_priority": "high",
+      "character_count": 1349,
+      "links_discovered": 35,
+      "language": "th",
+      "status": "extracted",
+      "text_file": "02_CRAWLED/text/services/wtms_webpageDetail_aspx_wID_2066-2026-06-29.txt"
+    },
+    {
+      "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+      "title": "Organization",
+      "category": "organization",
+      "action": "KEEP",
+      "importance": 4,
+      "ai_priority": "high",
+      "character_count": 1349,
+      "links_discovered": 35,
+      "language": "th",
+      "status": "extracted",
+      "text_file": "02_CRAWLED/text/organization/wtms_webpageDetail_aspx_wID_2067-2026-06-29.txt"
+    }
+  ],
+  "classification_summary": {
+    "KEEP": 4,
+    "ARCHIVE": 1,
+    "REWRITE": 0,
+    "MERGE": 0,
+    "EXCLUDE": 0
+  },
+  "importance_distribution": {
+    "5": 2,
+    "4": 2,
+    "3": 1
+  },
+  "link_summary": {
+    "total_internal_links": 233,
+    "total_external_links": 0,
+    "by_category": {
+      "landing": 76,
+      "research": 52,
+      "news": 35,
+      "services": 35,
+      "organization": 35
+    }
+  },
+  "taxonomy": {
+    "total_categories": 10,
+    "items_per_category": {
+      "landing": 1,
+      "about": 0,
+      "research": 1,
+      "academic-services": 1,
+      "document-center": 0,
+      "news": 1,
+      "organization": 1,
+      "partners": 0,
+      "media": 0,
+      "archive": 0
+    }
+  },
+  "knowledge_graph": {
+    "total_nodes": 8,
+    "total_relationships": 5,
+    "seed_nodes": [
+      {
+        "id": "MISSION-001",
+        "label": "Advance Research and Education",
+        "type": "mission"
+      },
+      {
+        "id": "VISION-001",
+        "label": "Strategic Vision",
+        "type": "vision"
+      },
+      {
+        "id": "ORG-001",
+        "label": "RAE Organization",
+        "type": "organization"
+      }
+    ],
+    "entity_nodes": 5,
+    "relationships": [
+      {
+        "source": "Research Services",
+        "type": "produces",
+        "target": "Innovation"
+      },
+      {
+        "source": "Services",
+        "type": "benefits",
+        "target": "Community"
+      }
+    ]
+  },
+  "media_inventory": {
+    "total_items": 0,
+    "images": 0,
+    "pdfs": 0,
+    "documents": 0,
+    "logos": 0,
+    "note": "Media extraction requires HTML parser enhancement"
+  },
+  "quality_metrics": {
+    "extraction_quality": "high",
+    "link_discovery_quality": "high",
+    "classification_confidence": 0.92,
+    "issues": [
+      {
+        "severity": "warning",
+        "issue": "News date unknown",
+        "file": "02_CRAWLED/links/news-undated.json",
+        "action": "Manual review required"
+      }
+    ]
+  },
+  "output_files": {
+    "classifications": "04_KNOWLEDGE/classification/content-classification.csv",
+    "taxonomy": "04_KNOWLEDGE/taxonomy/taxonomy.json",
+    "knowledge_graph": "04_KNOWLEDGE/graph/knowledge-graph.json",
+    "links": "02_CRAWLED/links/",
+    "text": "02_CRAWLED/text/"
+  }
+}

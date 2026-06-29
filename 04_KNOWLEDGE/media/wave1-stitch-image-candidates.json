@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "generated": "2026-06-29T06:34:41.822Z",
+    "total_candidates": 10,
+    "by_role": [
+      {
+        "role": "partner-logo",
+        "count": 3
+      },
+      {
+        "role": "hero",
+        "count": 7
+      }
+    ]
+  },
+  "candidates_by_role": {
+    "partner-logo": [
+      {
+        "id": "MEDIA-001",
+        "file_name": "Logo_25580508150123_636182.png",
+        "asset_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/Logo_25580508150123_636182.png",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      },
+      {
+        "id": "MEDIA-029",
+        "file_name": "logo-wtms.png",
+        "asset_url": "https://rae.mju.ac.th/wtms_system/images/logo-wtms.png",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      },
+      {
+        "id": "MEDIA-030",
+        "file_name": "logo.png",
+        "asset_url": "https://rae.mju.ac.th/images/logo.png",
+        "source_url": "https://rae.mju.ac.th/unknown",
+        "quality": "high",
+        "alt_text": ""
+      }
+    ],
+    "hero": [
+      {
+        "id": "MEDIA-003",
+        "file_name": "banner_25690625104612_274823.jpg",
+        "asset_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/banner_25690625104612_274823.jpg",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      },
+      {
+        "id": "MEDIA-004",
+        "file_name": "banner_25690507093827_210639.jpg",
+        "asset_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/banner_25690507093827_210639.jpg",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      },
+      {
+        "id": "MEDIA-005",
+        "file_name": "banner_25690306101947_370223.jpg",
+        "asset_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/banner_25690306101947_370223.jpg",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      },
+      {
+        "id": "MEDIA-006",
+        "file_name": "banner_25690311101352_474397.jpg",
+        "asset_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/banner_25690311101352_474397.jpg",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      },
+      {
+        "id": "MEDIA-007",
+        "file_name": "banner_25690311104023_228890.jpg",
+        "asset_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/banner_25690311104023_228890.jpg",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      },
+      {
+        "id": "MEDIA-008",
+        "file_name": "banner_25690216102413_343759.jpg",
+        "asset_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/banner_25690216102413_343759.jpg",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      },
+      {
+        "id": "MEDIA-009",
+        "file_name": "banner_25621111155137_788895.jpg",
+        "asset_url": "https://rae.mju.ac.th/goverment/20130325103535_2013_rae/banner_25621111155137_788895.jpg",
+        "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+        "quality": "high",
+        "alt_text": ""
+      }
+    ]
+  }
+}

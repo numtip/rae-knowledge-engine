@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "notebook_id": "02",
+    "notebook_name": "Research",
+    "title": "Research Excellence",
+    "description": "Research programs, projects, achievements",
+    "generated": "2026-06-29T06:49:26.320Z",
+    "version": "v1",
+    "story_positions": [
+      "research",
+      "knowledge-creation",
+      "innovation"
+    ],
+    "categories": [
+      "research"
+    ]
+  },
+  "content_sections": [
+    {
+      "story_position": "research",
+      "position_title": "Research Excellence",
+      "items": [
+        {
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "file_path": "research\\wtms_webpageDetail_aspx_wID_2064-2026-06-29.txt",
+          "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "category": "research",
+          "action": "KEEP",
+          "importance": 5,
+          "ai_priority": "critical",
+          "story_priority": "primary-section",
+          "section_candidate": "research",
+          "homepage_candidate": false,
+          "research_candidate": true,
+          "service_candidate": false,
+          "document_candidate": false,
+          "rewrite_reason": "",
+          "merge_target": "",
+          "duplicate_risk": false,
+          "reason": "Primary research content",
+          "confidence": 0.95,
+          "notes": ""
+        }
+      ],
+      "item_count": 1
+    }
+  ],
+  "taxonomy": {
+    "categories": [
+      "research"
+    ],
+    "distribution": {
+      "research": [
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ]
+    },
+    "coverage": 1
+  },
+  "story_mapping": {
+    "research": {
+      "title": "Research Excellence",
+      "narrative_role": "credibility",
+      "recommended_section": "at-a-glance",
+      "confidence": 1
+    },
+    "knowledge-creation": {
+      "title": "Knowledge Creation",
+      "narrative_role": "capability",
+      "recommended_section": "research",
+      "confidence": 1
+    },
+    "innovation": {
+      "title": "Innovation",
+      "narrative_role": "capability",
+      "recommended_section": "services",
+      "confidence": 1
+    }
+  },
+  "source_manifest": {
+    "total_items": 1,
+    "items": [
+      {
+        "title": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "category": "research",
+        "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+        "importance": 5
+      }
+    ]
+  }
+}

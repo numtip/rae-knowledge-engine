@@ -1,0 +1,59 @@
+{
+  "knowledge_index_version": "1.0.0",
+  "project": "RAE Knowledge Engine",
+  "organization": "RAE — Research Administration and Engagement, MJU",
+  "created": "2026-06-29",
+  "phase": "K0",
+  "status": "seed — empty",
+  "source_domain": "rae.mju.ac.th",
+  "categories": {
+    "landing": {
+      "description": "Main website landing page content — identity, mission, navigation",
+      "folder": "04_KNOWLEDGE/landing/",
+      "record_count": 0,
+      "records": []
+    },
+    "research": {
+      "description": "Research services — process, support, contact",
+      "folder": "04_KNOWLEDGE/research/",
+      "record_count": 0,
+      "records": []
+    },
+    "services": {
+      "description": "All other services provided by RAE",
+      "folder": "04_KNOWLEDGE/services/",
+      "record_count": 0,
+      "records": []
+    },
+    "news": {
+      "description": "News and PR content — Buddhist year 2568–2569 only",
+      "folder": "04_KNOWLEDGE/news/",
+      "date_policy": "B.E. 2568–2569 (CE 2025–2026) only",
+      "record_count": 0,
+      "records": []
+    },
+    "organization": {
+      "description": "Organizational structure, departments, public contacts",
+      "folder": "04_KNOWLEDGE/organization/",
+      "record_count": 0,
+      "records": []
+    },
+    "faq": {
+      "description": "Synthesized FAQ from all knowledge categories",
+      "folder": "04_KNOWLEDGE/faq/",
+      "record_count": 0,
+      "records": []
+    }
+  },
+  "taxonomy": {
+    "file": "04_KNOWLEDGE/taxonomy/",
+    "status": "pending K2"
+  },
+  "graph": {
+    "file": "04_KNOWLEDGE/graph/",
+    "status": "pending K2"
+  },
+  "total_records": 0,
+  "last_updated": "2026-06-29",
+  "next_update_phase": "K1"
+}

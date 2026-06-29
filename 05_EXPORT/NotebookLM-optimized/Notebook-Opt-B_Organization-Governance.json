@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "notebook_id": "OPT-B",
+    "notebook_name": "Organization & Governance",
+    "title": "RAE Organization, Structure & Governance — Reasoning Domain",
+    "description": "Organizational structure, divisions, management hierarchy, personnel, and contact information",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "optimization": "Reorganized by reasoning domain (Organization & Governance)",
+    "original_notebook": "Notebook00_Master, Notebook01_Landing",
+    "item_count": 7,
+    "knowledge_ids": ["KB-0003", "KB-0006", "KB-0009", "KB-0010", "KB-0013", "KB-0014", "KB-0008"]
+  },
+  "content_sections": [
+    {
+      "domain": "org-structure",
+      "position": 1,
+      "title": "Organizational Structure",
+      "items": [
+        {
+          "kb_id": "KB-0003",
+          "title": "RAE — Organizational Structure",
+          "description": "Full organizational hierarchy — Director, divisions, and departments",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 5,
+          "type": "canonical"
+        }
+      ]
+    },
+    {
+      "domain": "divisions",
+      "position": 2,
+      "title": "Core Divisions",
+      "items": [
+        {
+          "kb_id": "KB-0009",
+          "title": "RAE — Internal Divisions Overview",
+          "description": "Three core divisions: Research Admin, RAE Office Admin, Academic Service Admin",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 4,
+          "type": "canonical"
+        },
+        {
+          "kb_id": "KB-0006",
+          "title": "RAE — Research Administration Division",
+          "description": "Manages research grants, project administration, and researcher support",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 4,
+          "type": "canonical"
+        }
+      ]
+    },
+    {
+      "domain": "management",
+      "position": 3,
+      "title": "Management Structure",
+      "items": [
+        {
+          "kb_id": "KB-0013",
+          "title": "RAE — Executive Management Structure",
+          "description": "Executive management and administrator hierarchy",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 4,
+          "type": "reference"
+        },
+        {
+          "kb_id": "KB-0014",
+          "title": "RAE — Administrative Management Structure",
+          "description": "Administrative management reporting lines",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "domain": "personnel",
+      "position": 4,
+      "title": "Personnel & Staff",
+      "items": [
+        {
+          "kb_id": "KB-0010",
+          "title": "RAE — Personnel & Staff Directory",
+          "description": "Staff directory across all three RAE divisions",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 4,
+          "type": "canonical"
+        }
+      ]
+    },
+    {
+      "domain": "contact",
+      "position": 5,
+      "title": "Contact Information",
+      "items": [
+        {
+          "kb_id": "KB-0008",
+          "title": "RAE — Contact Information",
+          "description": "Address, Phone (+66 0 5387 3400), Email (raemju@gmail.com, researchmju@mju.ac.th)",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 4,
+          "type": "canonical"
+        }
+      ]
+    }
+  ],
+  "domain_summary": {
+    "organization-governance": {
+      "total_items": 7,
+      "canonical_count": 4,
+      "reference_count": 3,
+      "primary_sources": ["https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067", "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH"],
+      "key_themes": ["org-structure", "divisions", "management", "personnel", "contact"]
+    }
+  }
+}

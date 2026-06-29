@@ -1,0 +1,13 @@
+[
+  {
+    "category_distribution": {
+      "landing": 2,
+      "news": 1,
+      "organization": 1,
+      "research": 1,
+      "services": 5
+    },
+    "invalid_categories": [],
+    "coverage": 5
+  }
+]

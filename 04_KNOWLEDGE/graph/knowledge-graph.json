@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "generated": "2026-06-29T06:34:57.896Z",
+    "total_nodes": 16,
+    "total_relationships": 19,
+    "node_type_distribution": {
+      "mission": 1,
+      "vision": 1,
+      "organization": 1,
+      "research": 5,
+      "researcher": 1,
+      "innovation": 1,
+      "laboratory": 1,
+      "service": 1,
+      "community": 1,
+      "document": 2,
+      "contact": 1
+    }
+  },
+  "nodes": [
+    {
+      "id": "MISSION-001",
+      "label": "Advance Research and Education",
+      "type": "mission",
+      "category": "landing",
+      "importance": 5,
+      "source_ids": [],
+      "description": "Advance Research and Education",
+      "keywords": []
+    },
+    {
+      "id": "VISION-001",
+      "label": "Strategic Vision",
+      "type": "vision",
+      "category": "landing",
+      "importance": 5,
+      "source_ids": [],
+      "description": "Strategic Vision",
+      "keywords": []
+    },
+    {
+      "id": "ORG-001",
+      "label": "RAE Organization",
+      "type": "organization",
+      "category": "organization",
+      "importance": 5,
+      "source_ids": [],
+      "description": "RAE Organization",
+      "keywords": []
+    },
+    {
+      "id": "RESEARCH-PROJECTS",
+      "label": "Research Projects",
+      "type": "research",
+      "category": "research",
+      "importance": 5,
+      "source_ids": [],
+      "description": "Research Projects",
+      "keywords": []
+    },
+    {
+      "id": "RESEARCHERS",
+      "label": "Research Team",
+      "type": "researcher",
+      "category": "organization",
+      "importance": 4,
+      "source_ids": [],
+      "description": "Research Team",
+      "keywords": []
+    },
+    {
+      "id": "INNOVATION-001",
+      "label": "Innovation Hub",
+      "type": "innovation",
+      "category": "research",
+      "importance": 5,
+      "source_ids": [],
+      "description": "Innovation Hub",
+      "keywords": []
+    },
+    {
+      "id": "LABS-001",
+      "label": "Laboratories & Facilities",
+      "type": "laboratory",
+      "category": "services",
+      "importance": 4,
+      "source_ids": [],
+      "description": "Laboratories & Facilities",
+      "keywords": []
+    },
+    {
+      "id": "SERVICES-001",
+      "label": "Academic Services",
+      "type": "service",
+      "category": "services",
+      "importance": 5,
+      "source_ids": [],
+      "description": "Academic Services",
+      "keywords": []
+    },
+    {
+      "id": "COMMUNITY-001",
+      "label": "Farmer Communities",
+      "type": "community",
+      "category": "organization",
+      "importance": 4,
+      "source_ids": [],
+      "description": "Farmer Communities",
+      "keywords": []
+    },
+    {
+      "id": "DOCUMENTS",
+      "label": "Knowledge Base",
+      "type": "document",
+      "category": "research",
+      "importance": 3,
+      "source_ids": [],
+      "description": "Knowledge Base",
+      "keywords": []
+    },
+    {
+      "id": "CONTACT-001",
+      "label": "Contact & Support",
+      "type": "contact",
+      "category": "organization",
+      "importance": 4,
+      "source_ids": [],
+      "description": "Contact & Support",
+      "keywords": []
+    },
+    {
+      "id": "RAE-NODE-DOCUMENT-001",
+      "label": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+      "type": "document",
+      "category": "landing",
+      "importance": 3,
+      "source_ids": [
+        "https://rae.mju.ac.th/unknown"
+      ],
+      "description": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+      "keywords": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร",
+        "มหาวิทยาลัยแม่โจ้",
+        "หน้าแรก",
+        "ภาษาไทย",
+        "ผู้ดูแลระบบ"
+      ]
+    },
+    {
+      "id": "RAE-NODE-RESEARCH-002",
+      "label": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "type": "research",
+      "category": "research",
+      "importance": 5,
+      "source_ids": [
+        "https://rae.mju.ac.th/unknown"
+      ],
+      "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "keywords": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร",
+        "มหาวิทยาลัยแม่โจ้",
+        "office",
+        "agricultural",
+        "research"
+      ]
+    },
+    {
+      "id": "RAE-NODE-RESEARCH-003",
+      "label": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "type": "research",
+      "category": "research",
+      "importance": 5,
+      "source_ids": [
+        "https://rae.mju.ac.th/unknown"
+      ],
+      "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "keywords": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร",
+        "มหาวิทยาลัยแม่โจ้",
+        "office",
+        "agricultural",
+        "research"
+      ]
+    },
+    {
+      "id": "RAE-NODE-RESEARCH-004",
+      "label": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "type": "research",
+      "category": "research",
+      "importance": 5,
+      "source_ids": [
+        "https://rae.mju.ac.th/unknown"
+      ],
+      "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "keywords": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร",
+        "มหาวิทยาลัยแม่โจ้",
+        "office",
+        "agricultural",
+        "research"
+      ]
+    },
+    {
+      "id": "RAE-NODE-RESEARCH-005",
+      "label": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "type": "research",
+      "category": "research",
+      "importance": 5,
+      "source_ids": [
+        "https://rae.mju.ac.th/unknown"
+      ],
+      "description": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+      "keywords": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร",
+        "มหาวิทยาลัยแม่โจ้",
+        "office",
+        "agricultural",
+        "research"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "RESEARCH-PROJECTS",
+      "target_id": "RESEARCHERS",
+      "relationship_type": "part_of",
+      "confidence": 0.95,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.95
+    },
+    {
+      "source_id": "RESEARCH-PROJECTS",
+      "target_id": "INNOVATION-001",
+      "relationship_type": "produces",
+      "confidence": 0.9,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.9
+    },
+    {
+      "source_id": "INNOVATION-001",
+      "target_id": "SERVICES-001",
+      "relationship_type": "supports",
+      "confidence": 0.85,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.85
+    },
+    {
+      "source_id": "SERVICES-001",
+      "target_id": "LABS-001",
+      "relationship_type": "provided_by",
+      "confidence": 0.8,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.8
+    },
+    {
+      "source_id": "COMMUNITY-001",
+      "target_id": "SERVICES-001",
+      "relationship_type": "benefits",
+      "confidence": 0.85,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.85
+    },
+    {
+      "source_id": "DOCUMENTS",
+      "target_id": "RESEARCH-PROJECTS",
+      "relationship_type": "documents",
+      "confidence": 0.7,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.7
+    },
+    {
+      "source_id": "CONTACT-001",
+      "target_id": "COMMUNITY-001",
+      "relationship_type": "supports",
+      "confidence": 0.75,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.75
+    },
+    {
+      "source_id": "ORG-001",
+      "target_id": "MISSION-001",
+      "relationship_type": "drives",
+      "confidence": 0.95,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.95
+    },
+    {
+      "source_id": "ORG-001",
+      "target_id": "VISION-001",
+      "relationship_type": "guides",
+      "confidence": 0.95,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.95
+    },
+    {
+      "source_id": "RESEARCH-PROJECTS",
+      "target_id": "ORG-001",
+      "relationship_type": "belongs_to",
+      "confidence": 0.75,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.75
+    },
+    {
+      "source_id": "RAE-NODE-DOCUMENT-001",
+      "target_id": "ORG-001",
+      "relationship_type": "belongs_to",
+      "confidence": 0.75,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.75
+    },
+    {
+      "source_id": "RAE-NODE-RESEARCH-002",
+      "target_id": "INNOVATION-001",
+      "relationship_type": "produces",
+      "confidence": 0.85,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.85
+    },
+    {
+      "source_id": "RAE-NODE-RESEARCH-002",
+      "target_id": "ORG-001",
+      "relationship_type": "belongs_to",
+      "confidence": 0.75,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.75
+    },
+    {
+      "source_id": "RAE-NODE-RESEARCH-003",
+      "target_id": "INNOVATION-001",
+      "relationship_type": "produces",
+      "confidence": 0.85,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.85
+    },
+    {
+      "source_id": "RAE-NODE-RESEARCH-003",
+      "target_id": "ORG-001",
+      "relationship_type": "belongs_to",
+      "confidence": 0.75,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.75
+    },
+    {
+      "source_id": "RAE-NODE-RESEARCH-004",
+      "target_id": "INNOVATION-001",
+      "relationship_type": "produces",
+      "confidence": 0.85,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.85
+    },
+    {
+      "source_id": "RAE-NODE-RESEARCH-004",
+      "target_id": "ORG-001",
+      "relationship_type": "belongs_to",
+      "confidence": 0.75,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.75
+    },
+    {
+      "source_id": "RAE-NODE-RESEARCH-005",
+      "target_id": "INNOVATION-001",
+      "relationship_type": "produces",
+      "confidence": 0.85,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.85
+    },
+    {
+      "source_id": "RAE-NODE-RESEARCH-005",
+      "target_id": "ORG-001",
+      "relationship_type": "belongs_to",
+      "confidence": 0.75,
+      "evidence": [
+        "content analysis"
+      ],
+      "weight": 0.75
+    }
+  ]
+}

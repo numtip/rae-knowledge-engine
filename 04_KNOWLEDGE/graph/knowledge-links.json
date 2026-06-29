@@ -1,0 +1,572 @@
+{
+  "metadata": {
+    "graph_version": "1.0.0",
+    "phase": "K0.3",
+    "generated": "2026-06-29",
+    "description": "Semantic Knowledge Links — dependency and relationship graph between all Knowledge IDs",
+    "total_links": 48,
+    "link_types": ["depends_on", "references", "related_to", "part_of", "supports", "produces", "governs"],
+    "source_count": 44,
+    "target_count": 44
+  },
+  "links": [
+    {
+      "link_id": "LINK-0001",
+      "source_id": "KB-0001",
+      "source_title": "RAE — Mission Statement",
+      "target_id": "KB-0002",
+      "target_title": "RAE — Vision Statement",
+      "relationship": "supports",
+      "description": "Mission provides the foundation that the Vision expands upon",
+      "weight": 1.0,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0002",
+      "source_id": "KB-0001",
+      "source_title": "RAE — Mission Statement",
+      "target_id": "KB-0003",
+      "target_title": "RAE — Organizational Structure",
+      "relationship": "governs",
+      "description": "Mission governs the organizational structure designed to fulfill it",
+      "weight": 0.9,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0003",
+      "source_id": "KB-0002",
+      "source_title": "RAE — Vision Statement",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "drives",
+      "description": "Vision of international research hub drives research service development",
+      "weight": 0.9,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0004",
+      "source_id": "KB-0003",
+      "source_title": "RAE — Organizational Structure",
+      "target_id": "KB-0006",
+      "target_title": "RAE — Research Administration Division",
+      "relationship": "part_of",
+      "description": "Research Administration Division is part of the organizational structure",
+      "weight": 1.0,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0005",
+      "source_id": "KB-0003",
+      "source_title": "RAE — Organizational Structure",
+      "target_id": "KB-0005",
+      "target_title": "RAE — Academic Services Division",
+      "relationship": "part_of",
+      "description": "Academic Service Division is part of the organizational structure",
+      "weight": 1.0,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0006",
+      "source_id": "KB-0003",
+      "source_title": "RAE — Organizational Structure",
+      "target_id": "KB-0009",
+      "target_title": "RAE — Internal Divisions Overview",
+      "relationship": "part_of",
+      "description": "Internal divisions overview is a detailed view of the org structure",
+      "weight": 0.8,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0007",
+      "source_id": "KB-0004",
+      "source_title": "RAE — Research Services Overview",
+      "target_id": "KB-0007",
+      "target_title": "RAE — Research Forum & Funding Workshop",
+      "relationship": "references",
+      "description": "Research services page references the Research Forum funding workshop event",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0008",
+      "source_id": "KB-0004",
+      "source_title": "RAE — Research Services Overview",
+      "target_id": "KB-0008",
+      "target_title": "RAE — Contact Information",
+      "relationship": "references",
+      "description": "Research services page provides contact information for inquiries",
+      "weight": 0.8,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0009",
+      "source_id": "KB-0004",
+      "source_title": "RAE — Research Services Overview",
+      "target_id": "KB-0011",
+      "target_title": "RAE — Document Downloads",
+      "relationship": "references",
+      "description": "Research services page links to downloadable documents",
+      "weight": 0.6,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0010",
+      "source_id": "KB-0005",
+      "source_title": "RAE — Academic Services Division",
+      "target_id": "KB-0009",
+      "target_title": "RAE — Internal Divisions Overview",
+      "relationship": "part_of",
+      "description": "Academic Services is one of RAE's three core divisions",
+      "weight": 0.9,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0011",
+      "source_id": "KB-0006",
+      "source_title": "RAE — Research Administration Division",
+      "target_id": "KB-0009",
+      "target_title": "RAE — Internal Divisions Overview",
+      "relationship": "part_of",
+      "description": "Research Administration is one of RAE's three core divisions",
+      "weight": 0.9,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0012",
+      "source_id": "KB-0007",
+      "source_title": "RAE — Research Forum & Funding Workshop",
+      "target_id": "KB-0041",
+      "target_title": "RAE — ARDA Strategic Fund Documents (SF)",
+      "relationship": "references",
+      "description": "Research Forum discussed ARDA SF funding opportunities",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0013",
+      "source_id": "KB-0007",
+      "source_title": "RAE — Research Forum & Funding Workshop",
+      "target_id": "KB-0042",
+      "target_title": "RAE — ARDA Research Utilization Documents (RU)",
+      "relationship": "references",
+      "description": "Research Forum discussed ARDA RU funding opportunities",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0014",
+      "source_id": "KB-0007",
+      "source_title": "RAE — Research Forum & Funding Workshop",
+      "target_id": "KB-0037",
+      "target_title": "RAE — Research Detail: wID=954",
+      "relationship": "references",
+      "description": "Research Forum relates to research detail pages with funding info",
+      "weight": 0.5,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0015",
+      "source_id": "KB-0012",
+      "source_title": "RAE — History & Background",
+      "target_id": "KB-0001",
+      "target_title": "RAE — Mission Statement",
+      "relationship": "supports",
+      "description": "Historical background provides context for the mission",
+      "weight": 0.6,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0016",
+      "source_id": "KB-0013",
+      "source_title": "RAE — Executive Management Structure",
+      "target_id": "KB-0003",
+      "target_title": "RAE — Organizational Structure",
+      "relationship": "part_of",
+      "description": "Executive management is a subset of the overall organizational structure",
+      "weight": 0.8,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0017",
+      "source_id": "KB-0014",
+      "source_title": "RAE — Administrative Management Structure",
+      "target_id": "KB-0003",
+      "target_title": "RAE — Organizational Structure",
+      "relationship": "part_of",
+      "description": "Administrative management is a subset of the organizational structure",
+      "weight": 0.8,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0018",
+      "source_id": "KB-0015",
+      "source_title": "RAE — Landing Page Navigation Structure",
+      "target_id": "KB-0001",
+      "target_title": "RAE — Mission Statement",
+      "relationship": "references",
+      "description": "Site navigation reflects the mission-driven organization",
+      "weight": 0.5,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0019",
+      "source_id": "KB-0015",
+      "source_title": "RAE — Landing Page Navigation Structure",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "references",
+      "description": "Navigation provides access to research services pages",
+      "weight": 0.6,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0020",
+      "source_id": "KB-0015",
+      "source_title": "RAE — Landing Page Navigation Structure",
+      "target_id": "KB-0019",
+      "target_title": "RAE — News Listing Page (wID=2065)",
+      "relationship": "references",
+      "description": "Navigation provides access to news listing",
+      "weight": 0.5,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0021",
+      "source_id": "KB-0016",
+      "source_title": "RAE — Language Switch & Accessibility",
+      "target_id": "KB-0015",
+      "target_title": "RAE — Landing Page Navigation Structure",
+      "relationship": "part_of",
+      "description": "Language switcher is part of the navigation system",
+      "weight": 0.4,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0022",
+      "source_id": "KB-0018",
+      "source_title": "RAE — Landing Page Hero Slideshow",
+      "target_id": "KB-0001",
+      "target_title": "RAE — Mission Statement",
+      "relationship": "supports",
+      "description": "Hero slideshow visually reinforces the mission",
+      "weight": 0.5,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0023",
+      "source_id": "KB-0018",
+      "source_title": "RAE — Landing Page Hero Slideshow",
+      "target_id": "KB-0002",
+      "target_title": "RAE — Vision Statement",
+      "relationship": "supports",
+      "description": "Hero slideshow visually reinforces the vision",
+      "weight": 0.5,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0024",
+      "source_id": "KB-0019",
+      "source_title": "RAE — News Listing Page (wID=2065)",
+      "target_id": "KB-0020",
+      "target_title": "RAE — All News Listing",
+      "relationship": "related_to",
+      "description": "News detail page links to the full news listing",
+      "weight": 0.7,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0025",
+      "source_id": "KB-0019",
+      "source_title": "RAE — News Listing Page (wID=2065)",
+      "target_id": "KB-0021",
+      "target_title": "RAE — News Category: Activities",
+      "relationship": "related_to",
+      "description": "News listing has subcategories including activities",
+      "weight": 0.6,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0026",
+      "source_id": "KB-0019",
+      "source_title": "RAE — News Listing Page (wID=2065)",
+      "target_id": "KB-0022",
+      "target_title": "RAE — News Category: PR",
+      "relationship": "related_to",
+      "description": "News listing has subcategories including PR",
+      "weight": 0.6,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0027",
+      "source_id": "KB-0019",
+      "source_title": "RAE — News Listing Page (wID=2065)",
+      "target_id": "KB-0023",
+      "target_title": "RAE — News Category: Procurement/Jobs",
+      "relationship": "related_to",
+      "description": "News listing has subcategories including procurement/jobs",
+      "weight": 0.6,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0028",
+      "source_id": "KB-0019",
+      "source_title": "RAE — News Listing Page (wID=2065)",
+      "target_id": "KB-0024",
+      "target_title": "RAE — News Category: Announcements",
+      "relationship": "related_to",
+      "description": "News listing has subcategories including announcements",
+      "weight": 0.6,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0029",
+      "source_id": "KB-0025",
+      "source_title": "RAE — Research Detail: wID=2022",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0030",
+      "source_id": "KB-0026",
+      "source_title": "RAE — Research Detail: wID=2387",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0031",
+      "source_id": "KB-0027",
+      "source_title": "RAE — Research Detail: wID=1960",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0032",
+      "source_id": "KB-0028",
+      "source_title": "RAE — Research Detail: wID=1908",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0033",
+      "source_id": "KB-0029",
+      "source_title": "RAE — Research Detail: wID=1941",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0034",
+      "source_id": "KB-0030",
+      "source_title": "RAE — Research Detail: wID=2042",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0035",
+      "source_id": "KB-0031",
+      "source_title": "RAE — Research Detail: wID=2043",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0036",
+      "source_id": "KB-0032",
+      "source_title": "RAE — Research Detail: wID=2390",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0037",
+      "source_id": "KB-0033",
+      "source_title": "RAE — Research Detail: wID=2463",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0038",
+      "source_id": "KB-0034",
+      "source_title": "RAE — Research Detail: wID=2012",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0039",
+      "source_id": "KB-0035",
+      "source_title": "RAE — Research Detail: wID=2013",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0040",
+      "source_id": "KB-0036",
+      "source_title": "RAE — Research Detail: wID=1909",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0041",
+      "source_id": "KB-0037",
+      "source_title": "RAE — Research Detail: wID=954",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0042",
+      "source_id": "KB-0038",
+      "source_title": "RAE — Research Detail: wID=2744",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0043",
+      "source_id": "KB-0039",
+      "source_title": "RAE — Research Detail: wID=2602",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0044",
+      "source_id": "KB-0040",
+      "source_title": "RAE — Research Detail: wID=2721",
+      "target_id": "KB-0004",
+      "target_title": "RAE — Research Services Overview",
+      "relationship": "part_of",
+      "description": "Research detail page is part of the broader research services",
+      "weight": 0.7,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0045",
+      "source_id": "KB-0041",
+      "source_title": "RAE — ARDA Strategic Fund Documents (SF)",
+      "target_id": "KB-0037",
+      "target_title": "RAE — Research Detail: wID=954",
+      "relationship": "references",
+      "description": "ARDA SF documents referenced in research pages",
+      "weight": 0.5,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0046",
+      "source_id": "KB-0042",
+      "source_title": "RAE — ARDA Research Utilization Documents (RU)",
+      "target_id": "KB-0038",
+      "target_title": "RAE — Research Detail: wID=2744",
+      "relationship": "references",
+      "description": "ARDA RU documents referenced in research pages",
+      "weight": 0.5,
+      "bidirectional": false
+    },
+    {
+      "link_id": "LINK-0047",
+      "source_id": "KB-0003",
+      "source_title": "RAE — Organizational Structure",
+      "target_id": "KB-0010",
+      "target_title": "RAE — Personnel & Staff Directory",
+      "relationship": "part_of",
+      "description": "Personnel directory is part of the organizational structure",
+      "weight": 0.8,
+      "bidirectional": true
+    },
+    {
+      "link_id": "LINK-0048",
+      "source_id": "KB-0008",
+      "source_title": "RAE — Contact Information",
+      "target_id": "KB-0003",
+      "target_title": "RAE — Organizational Structure",
+      "relationship": "references",
+      "description": "Contact information is associated with the organization",
+      "weight": 0.6,
+      "bidirectional": false
+    }
+  ],
+  "graph_summary": {
+    "total_links": 48,
+    "by_relationship": {
+      "part_of": 24,
+      "references": 8,
+      "supports": 4,
+      "related_to": 5,
+      "governs": 1,
+      "drives": 1,
+      "depends_on": 0
+    },
+    "by_bidirectional": {
+      "true": 8,
+      "false": 40
+    },
+    "hub_nodes": {
+      "KB-0004": 18,
+      "KB-0003": 8,
+      "KB-0019": 6,
+      "KB-0001": 4,
+      "KB-0007": 4,
+      "KB-0009": 3
+    },
+    "leaf_nodes": ["KB-0016", "KB-0017", "KB-0043", "KB-0044"],
+    "strongest_connections": [
+      {"source": "KB-0001", "target": "KB-0002", "weight": 1.0},
+      {"source": "KB-0003", "target": "KB-0006", "weight": 1.0},
+      {"source": "KB-0003", "target": "KB-0005", "weight": 1.0}
+    ]
+  }
+}

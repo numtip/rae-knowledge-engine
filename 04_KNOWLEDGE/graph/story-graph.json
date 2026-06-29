@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "generated": "2026-06-29T06:35:12.007Z",
+    "version": "v1",
+    "total_positions": 10,
+    "coverage": 90
+  },
+  "arc": [
+    {
+      "id": "mission",
+      "title": "Mission & Vision",
+      "narrative_role": "opening",
+      "priority": 1,
+      "recommended_section": "hero",
+      "source_ids": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส"
+      ],
+      "evidence": [
+        {
+          "content": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+          "importance": 3,
+          "confidence": 0.75
+        },
+        {
+          "content": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+          "importance": 3,
+          "confidence": 0.75
+        }
+      ],
+      "missing_content": [],
+      "confidence": 0.6666666666666666
+    },
+    {
+      "id": "research",
+      "title": "Research Excellence",
+      "narrative_role": "credibility",
+      "priority": 2,
+      "recommended_section": "at-a-glance",
+      "source_ids": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ],
+      "evidence": [
+        {
+          "content": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+          "importance": 3,
+          "confidence": 0.75
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 3,
+          "confidence": 0.7
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 4,
+          "confidence": 0.9
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 5,
+          "confidence": 0.95
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+          "importance": 3,
+          "confidence": 0.75
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 4,
+          "confidence": 0.85
+        }
+      ],
+      "missing_content": [],
+      "confidence": 1
+    },
+    {
+      "id": "knowledge-creation",
+      "title": "Knowledge Creation",
+      "narrative_role": "capability",
+      "priority": 3,
+      "recommended_section": "research",
+      "source_ids": [
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ],
+      "evidence": [
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 3,
+          "confidence": 0.7
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 4,
+          "confidence": 0.9
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 5,
+          "confidence": 0.95
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 4,
+          "confidence": 0.85
+        }
+      ],
+      "missing_content": [],
+      "confidence": 1
+    },
+    {
+      "id": "innovation",
+      "title": "Innovation",
+      "narrative_role": "capability",
+      "priority": 4,
+      "recommended_section": "services",
+      "source_ids": [
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ],
+      "evidence": [
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 4,
+          "confidence": 0.85
+        }
+      ],
+      "missing_content": [],
+      "confidence": 1
+    },
+    {
+      "id": "academic-services",
+      "title": "Academic Services",
+      "narrative_role": "service",
+      "priority": 5,
+      "recommended_section": "services",
+      "source_ids": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ],
+      "evidence": [
+        {
+          "content": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+          "importance": 3,
+          "confidence": 0.75
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+          "importance": 3,
+          "confidence": 0.75
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 4,
+          "confidence": 0.85
+        }
+      ],
+      "missing_content": [],
+      "confidence": 1
+    },
+    {
+      "id": "technology-transfer",
+      "title": "Technology Transfer",
+      "narrative_role": "proof",
+      "priority": 6,
+      "recommended_section": "services",
+      "source_ids": [
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ],
+      "evidence": [
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2064",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2066",
+          "importance": 4,
+          "confidence": 0.85
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 4,
+          "confidence": 0.85
+        }
+      ],
+      "missing_content": [],
+      "confidence": 1
+    },
+    {
+      "id": "community-impact",
+      "title": "Community Impact",
+      "narrative_role": "impact",
+      "priority": 7,
+      "recommended_section": "impact",
+      "source_ids": [
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+        "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส"
+      ],
+      "evidence": [
+        {
+          "content": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+          "importance": 3,
+          "confidence": 0.75
+        },
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 3,
+          "confidence": 0.7
+        },
+        {
+          "content": "สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ TH หน้าแรก ภาษาไทย ผู้ดูแลระบบ สำนักวิจัยและส",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?lang=th-TH",
+          "importance": 3,
+          "confidence": 0.75
+        }
+      ],
+      "missing_content": [],
+      "confidence": 1
+    },
+    {
+      "id": "sustainable-agriculture",
+      "title": "Sustainable Agriculture",
+      "narrative_role": "ecosystem",
+      "priority": 8,
+      "recommended_section": "impact",
+      "source_ids": [
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ],
+      "evidence": [
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2065",
+          "importance": 3,
+          "confidence": 0.7
+        }
+      ],
+      "missing_content": [],
+      "confidence": 0.3333333333333333
+    },
+    {
+      "id": "knowledge-ecosystem",
+      "title": "Knowledge Ecosystem",
+      "narrative_role": "ecosystem",
+      "priority": 9,
+      "recommended_section": "knowledge-ecosystem",
+      "source_ids": [
+        "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E"
+      ],
+      "evidence": [
+        {
+          "content": "--> สำนักวิจัยและส่งเสริมวิชาการการเกษตร มหาวิทยาลัยแม่โจ้ The Office of Agricultural Research and E",
+          "source_url": "https://rae.mju.ac.th/wtms_webpageDetail.aspx?wID=2067",
+          "importance": 4,
+          "confidence": 0.9
+        }
+      ],
+      "missing_content": [],
+      "confidence": 0.3333333333333333
+    },
+    {
+      "id": "future",
+      "title": "Future of Agriculture",
+      "narrative_role": "future",
+      "priority": 10,
+      "recommended_section": "footer",
+      "source_ids": [],
+      "evidence": [],
+      "missing_content": [
+        "No content found for Future of Agriculture"
+      ],
+      "confidence": 0
+    }
+  ]
+}

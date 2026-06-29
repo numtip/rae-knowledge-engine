@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "notebook_id": "OPT-A",
+    "notebook_name": "Identity & Mission",
+    "title": "RAE Identity, Mission & Vision — Reasoning Domain",
+    "description": "Core identity documents — philosophy, mission, vision, history, and organizational background",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "optimization": "Reorganized by reasoning domain (Identity & Mission)",
+    "reasoning_domain": "identity-mission",
+    "original_notebook": "Notebook00_Master, Notebook01_Landing",
+    "item_count": 6,
+    "knowledge_ids": ["KB-0001", "KB-0002", "KB-0012", "KB-0015", "KB-0016", "KB-0018"]
+  },
+  "content_sections": [
+    {
+      "domain": "mission-vision",
+      "position": 1,
+      "title": "Mission & Philosophy",
+      "items": [
+        {
+          "kb_id": "KB-0001",
+          "title": "RAE — Mission Statement",
+          "description": "Philosophy: 'มุ่งพัฒนางานวิจัยและบริการวิชาการสู่สังคม โดยมีการเกษตรเป็นรากฐาน'",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 5,
+          "type": "canonical"
+        }
+      ]
+    },
+    {
+      "domain": "mission-vision",
+      "position": 2,
+      "title": "Vision Statement",
+      "items": [
+        {
+          "kb_id": "KB-0002",
+          "title": "RAE — Vision Statement",
+          "description": "Vision: 'เป็นศูนย์กลางการพัฒนางานวิจัยและบริการวิชาการ เพื่อผลักดันมหาวิทยาลัยสู่ระดับนานาชาติ'",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 5,
+          "type": "canonical"
+        }
+      ]
+    },
+    {
+      "domain": "background",
+      "position": 3,
+      "title": "History & Background",
+      "items": [
+        {
+          "kb_id": "KB-0012",
+          "title": "RAE — History & Background",
+          "description": "Background of RAE — The Office of Agricultural Research and Extension, Maejo University",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "domain": "navigation-identity",
+      "position": 4,
+      "title": "Site Navigation & Language",
+      "items": [
+        {
+          "kb_id": "KB-0015",
+          "title": "RAE — Landing Page Navigation Structure",
+          "description": "Complete navigation structure and page hierarchy",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        },
+        {
+          "kb_id": "KB-0016",
+          "title": "RAE — Language Switch & Accessibility",
+          "description": "Language selection (Thai/English) and login portal",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 2,
+          "type": "reference"
+        }
+      ]
+    },
+    {
+      "domain": "visual-identity",
+      "position": 5,
+      "title": "Hero & Visual Identity",
+      "items": [
+        {
+          "kb_id": "KB-0018",
+          "title": "RAE — Landing Page Hero Slideshow",
+          "description": "Hero slideshow with key visual identity and messages",
+          "source_url": "https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH",
+          "importance": 3,
+          "type": "reference"
+        }
+      ]
+    }
+  ],
+  "domain_summary": {
+    "identity-mission": {
+      "total_items": 6,
+      "canonical_count": 2,
+      "reference_count": 4,
+      "primary_sources": ["https://rae.mju.ac.th/wtms_index.aspx?&lang=th-TH"],
+      "key_themes": ["mission", "vision", "philosophy", "history", "navigation", "visual-identity"]
+    }
+  }
+}

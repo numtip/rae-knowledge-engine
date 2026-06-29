@@ -1,0 +1,62 @@
+{
+  "quality_score": 45,
+  "total_checks": 11,
+  "passed_checks": 5,
+  "failed_checks": 1,
+  "warnings": [
+    "Vision Content Present: Vision statement not explicitly found",
+    "Organization Structure Consistent: Limited organization content",
+    "Duplicate Content Detection: 29 potential duplicates found",
+    "Knowledge Graph Integrity: Knowledge graph missing or malformed",
+    "News Policy Compliance (2568-2569): 1 news items may not comply"
+  ],
+  "errors": [
+    "Mission Content Present: No mission statement found or archived"
+  ],
+  "details": {
+    "Mission Content Present": {
+      "status": "FAIL",
+      "message": "Mission statement not found"
+    },
+    "Vision Content Present": {
+      "status": "WARN",
+      "message": "Vision statement not found"
+    },
+    "Contact Information Consistent": {
+      "status": "PASS",
+      "message": "1 contact items preserved"
+    },
+    "Organization Structure Consistent": {
+      "status": "WARN",
+      "message": "Only 1 organization items"
+    },
+    "Duplicate Content Detection": {
+      "status": "WARN",
+      "message": "29 potential duplicates"
+    },
+    "Broken Internal References": {
+      "status": "PASS",
+      "message": "No broken references detected"
+    },
+    "Taxonomy Integrity": {
+      "status": "PASS",
+      "message": "All categories valid"
+    },
+    "Knowledge Graph Integrity": {
+      "status": "WARN",
+      "message": "Knowledge graph not loaded"
+    },
+    "Story Graph Completeness": {
+      "status": "PASS",
+      "message": "Story arc 90% complete"
+    },
+    "News Policy Compliance (2568-2569)": {
+      "status": "WARN",
+      "message": "1 news items need review"
+    },
+    "Media Asset Validation": {
+      "status": "PASS",
+      "message": "10 Stitch candidates, 7 high priority"
+    }
+  }
+}

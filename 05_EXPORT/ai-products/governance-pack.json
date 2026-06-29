@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "pack_id": "GOV-001",
+    "pack_name": "Governance Pack",
+    "title": "RAE Governance & Policy Knowledge Pack",
+    "description": "Organizational governance: structure, management hierarchy, policies, and administrative framework",
+    "generated": "2026-06-29",
+    "phase": "K0.3",
+    "target_audience": "administrators, policy makers, compliance officers",
+    "item_count": 8,
+    "knowledge_ids": ["KB-0003", "KB-0006", "KB-0009", "KB-0010", "KB-0013", "KB-0014", "KB-0043", "KB-0044"]
+  },
+  "governance_summary": {
+    "organization_type": "University research and extension office",
+    "parent_institution": "Maejo University (มหาวิทยาลัยแม่โจ้)",
+    "governance_level": "Departmental/Divisional under MJU",
+    "core_divisions": 3,
+    "management_layers": ["Executive", "Administrative", "Operational"]
+  },
+  "content": {
+    "org_structure": [
+      {"kb_id": "KB-0003", "title": "Organizational Structure", "importance": 5}
+    ],
+    "divisions": [
+      {"kb_id": "KB-0009", "title": "Internal Divisions Overview", "importance": 4},
+      {"kb_id": "KB-0006", "title": "Research Administration Division", "importance": 4}
+    ],
+    "management": [
+      {"kb_id": "KB-0013", "title": "Executive Management Structure", "importance": 4},
+      {"kb_id": "KB-0014", "title": "Administrative Management Structure", "importance": 3}
+    ],
+    "personnel": [
+      {"kb_id": "KB-0010", "title": "Personnel & Staff Directory", "importance": 4}
+    ],
+    "general_pages": [
+      {"kb_id": "KB-0043", "title": "General Page: wID=914", "importance": 2},
+      {"kb_id": "KB-0044", "title": "General Page: wID=2603", "importance": 2}
+    ]
+  },
+  "governance_framework": {
+    "decision_hierarchy": "Executive → Administrative → Operational",
+    "reporting_structure": "Divisions report to Director → Dean → University Administration",
+    "policy_domain": "Research administration, academic service, community extension"
+  },
+  "usage_notes": {
+    "recommended_use": "Organizational audit, policy development, compliance review",
+    "ai_context_size": "medium",
+    "priority_level": "high"
+  }
+}
